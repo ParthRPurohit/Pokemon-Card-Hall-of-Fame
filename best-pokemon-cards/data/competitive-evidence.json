@@ -1,0 +1,115 @@
+{
+  "byCardId": {
+    "sv3-125": {
+      "manualEvidenceScore": 90,
+      "notes": [
+        "Manual curation signal: current curated Charizard ex selection and a known recent archetype anchor.",
+        "Use this as a baseline example where curated evidence should outrank generic text heuristics."
+      ],
+      "links": [
+        {
+          "label": "Limitless card page for Charizard ex",
+          "url": "https://limitlesstcg.com/cards/OBF/125",
+          "type": "card-reference"
+        }
+      ],
+      "sourceType": "Manual"
+    },
+    "sm11-71": {
+      "manualEvidenceScore": 88,
+      "notes": [
+        "Manual curation signal: format-defining toolbox card and current curated Mewtwo selection."
+      ],
+      "links": [
+        {
+          "label": "Limitless card page for Mewtwo & Mew-GX",
+          "url": "https://limitlesstcg.com/cards/UNM/71",
+          "type": "card-reference"
+        }
+      ],
+      "sourceType": "Manual"
+    },
+    "sm9-53": {
+      "manualEvidenceScore": 78,
+      "notes": [
+        "Manual curation signal: current curated Gengar selection with strong disruption identity."
+      ],
+      "links": [
+        {
+          "label": "Limitless card page for Gengar & Mimikyu-GX",
+          "url": "https://limitlesstcg.com/cards/TEU/53",
+          "type": "card-reference"
+        }
+      ],
+      "sourceType": "Manual"
+    },
+    "pgo-55": {
+      "manualEvidenceScore": 72,
+      "notes": [
+        "Manual curation signal: Pokemon GO Snorlax is the current seeded pick because Block gave it a meaningful control role."
+      ],
+      "links": [
+        {
+          "label": "Limitless card page for Snorlax",
+          "url": "https://limitlesstcg.com/cards/PGO/55",
+          "type": "card-reference"
+        }
+      ],
+      "sourceType": "Manual"
+    }
+  },
+  "byCardName": {
+    "radiant charizard": {
+      "manualEvidenceScore": 85,
+      "notes": [
+        "Manual curation signal: known competitive one-prize attacker used in successful Standard decks.",
+        "Prioritize this over pure text-heuristic Charizard variants when comparing real competitive relevance."
+      ],
+      "links": [],
+      "sourceType": "Manual"
+    }
+  },
+  "byPokemonAndCardName": {
+    "charizard|radiant charizard": {
+      "manualEvidenceScore": 85,
+      "notes": [
+        "Should be prioritized in Charizard review because it has real competitive relevance beyond generic attack text."
+      ],
+      "links": [],
+      "sourceType": "Manual"
+    },
+    "charizard|charizard ex": {
+      "manualEvidenceScore": 90,
+      "notes": [
+        "Manual curation signal for Charizard ex in the Charizard review lane."
+      ],
+      "links": [],
+      "sourceType": "Manual"
+    },
+    "mewtwo|mewtwo mew gx": {
+      "manualEvidenceScore": 88,
+      "notes": [
+        "Manual curation signal for Mewtwo & Mew-GX as the leading competitive Mewtwo candidate."
+      ],
+      "links": [],
+      "sourceType": "Manual"
+    },
+    "gengar|gengar mimikyu gx": {
+      "manualEvidenceScore": 78,
+      "notes": [
+        "Manual curation signal for Gengar & Mimikyu-GX as a standout competitive Gengar card."
+      ],
+      "links": [],
+      "sourceType": "Manual"
+    },
+    "snorlax|snorlax": {
+      "manualEvidenceScore": 72,
+      "notes": [
+        "Use the Pokemon GO Block Snorlax notes to keep control-role Snorlax candidates visible during review."
+      ],
+      "links": [],
+      "sourceType": "Manual"
+    }
+  },
+  "byGroupId": {}
+}

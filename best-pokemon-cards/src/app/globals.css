@@ -186,6 +186,124 @@ img {
   opacity: 0.92;
 }
 
+.review-label {
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  padding: 0.38rem 0.72rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  border: 1px solid transparent;
+}
+
+.review-label-selected {
+  background: rgba(15, 108, 123, 0.12);
+  border-color: rgba(15, 108, 123, 0.18);
+  color: var(--accent-strong);
+}
+
+.review-label-candidate {
+  background: rgba(181, 125, 37, 0.12);
+  border-color: rgba(181, 125, 37, 0.2);
+  color: #8f5f14;
+}
+
+.review-label-review {
+  background: rgba(61, 106, 171, 0.12);
+  border-color: rgba(61, 106, 171, 0.18);
+  color: #27568e;
+}
+
+.review-label-reprint {
+  background: rgba(126, 91, 169, 0.12);
+  border-color: rgba(126, 91, 169, 0.18);
+  color: #6942a0;
+}
+
+.review-evidence-competitive-evidence-found {
+  background: rgba(64, 135, 91, 0.13);
+  border-color: rgba(64, 135, 91, 0.2);
+  color: #1f6a3d;
+}
+
+.review-evidence-manual-evidence-only {
+  background: rgba(15, 108, 123, 0.12);
+  border-color: rgba(15, 108, 123, 0.18);
+  color: #0f6c7b;
+}
+
+.review-evidence-heuristic-only {
+  background: rgba(188, 133, 33, 0.14);
+  border-color: rgba(188, 133, 33, 0.2);
+  color: #8f5f14;
+}
+
+.review-evidence-evidence-missing {
+  background: rgba(123, 130, 140, 0.14);
+  border-color: rgba(123, 130, 140, 0.2);
+  color: #5d6670;
+}
+
+.review-priority-high {
+  background: rgba(64, 135, 91, 0.13);
+  border-color: rgba(64, 135, 91, 0.2);
+  color: #1f6a3d;
+}
+
+.review-priority-medium {
+  background: rgba(188, 133, 33, 0.14);
+  border-color: rgba(188, 133, 33, 0.2);
+  color: #8f5f14;
+}
+
+.review-priority-low {
+  background: rgba(123, 130, 140, 0.14);
+  border-color: rgba(123, 130, 140, 0.2);
+  color: #5d6670;
+}
+
+.review-source-manual {
+  background: rgba(15, 108, 123, 0.12);
+  border-color: rgba(15, 108, 123, 0.18);
+  color: #0f6c7b;
+}
+
+.review-source-limitless {
+  background: rgba(64, 135, 91, 0.13);
+  border-color: rgba(64, 135, 91, 0.2);
+  color: #1f6a3d;
+}
+
+.review-source-retro {
+  background: rgba(126, 91, 169, 0.12);
+  border-color: rgba(126, 91, 169, 0.18);
+  color: #6942a0;
+}
+
+.review-source-heuristic {
+  background: rgba(188, 133, 33, 0.14);
+  border-color: rgba(188, 133, 33, 0.2);
+  color: #8f5f14;
+}
+
+.review-row {
+  display: grid;
+  grid-template-columns: minmax(80px, 96px) 1fr;
+  gap: 0.75rem;
+  align-items: start;
+}
+
+.review-row dt {
+  font-weight: 700;
+  color: var(--ink-strong);
+}
+
+.review-row dd {
+  margin: 0;
+}
+
 h1,
 h2,
 h3,

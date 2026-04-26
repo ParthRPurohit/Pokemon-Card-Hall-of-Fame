@@ -4,10 +4,21 @@ import path from "node:path";
 type PokemonTcgApiCard = {
   id: string;
   name: string;
+  hp?: string;
   number: string;
   rarity?: string;
   nationalPokedexNumbers?: number[];
   legalities?: Record<string, string>;
+  weaknesses?: Array<{
+    type: string;
+    value: string;
+  }>;
+  resistances?: Array<{
+    type: string;
+    value: string;
+  }>;
+  retreatCost?: string[];
+  convertedRetreatCost?: number;
   rules?: string[];
   abilities?: Array<{
     name: string;
@@ -46,6 +57,7 @@ type PokemonTcgApiResponse = {
 type SavedCandidateCard = {
   id: string;
   name: string;
+  hp: string | null;
   set: {
     name: string;
     series: string;
@@ -61,6 +73,10 @@ type SavedCandidateCard = {
     url: string | null;
   };
   legalities: Record<string, string> | null;
+  weaknesses: PokemonTcgApiCard["weaknesses"] | null;
+  resistances: PokemonTcgApiCard["resistances"] | null;
+  retreatCost: string[] | null;
+  convertedRetreatCost: number | null;
   abilities: PokemonTcgApiCard["abilities"] | null;
   attacks: PokemonTcgApiCard["attacks"] | null;
   rules: string[] | null;
@@ -87,6 +103,7 @@ function mapCard(card: PokemonTcgApiCard): SavedCandidateCard {
   return {
     id: card.id,
     name: card.name,
+    hp: card.hp ?? null,
     set: {
       name: card.set.name,
       series: card.set.series,
@@ -102,6 +119,10 @@ function mapCard(card: PokemonTcgApiCard): SavedCandidateCard {
       url: card.tcgplayer?.url ?? null,
     },
     legalities: card.legalities ?? null,
+    weaknesses: card.weaknesses ?? null,
+    resistances: card.resistances ?? null,
+    retreatCost: card.retreatCost ?? null,
+    convertedRetreatCost: card.convertedRetreatCost ?? null,
     abilities: card.abilities ?? null,
     attacks: card.attacks ?? null,
     rules: card.rules ?? null,
