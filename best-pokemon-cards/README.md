@@ -1,36 +1,76 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Best Pokemon Cards
 
-## Getting Started
+This Next.js app is the first MVP for **Best Pokemon Cards**, a simple site that highlights the best competitively relevant Pokemon card for each Gen 1 Pokemon.
 
-First, run the development server:
+The current seed dataset is local-only and includes 10 sample Kanto Pokemon:
+
+- Charizard
+- Blastoise
+- Venusaur
+- Pikachu
+- Mewtwo
+- Mew
+- Clefairy
+- Gengar
+- Alakazam
+- Snorlax
+
+## Run Locally
+
+From the repo root:
 
 ```bash
+cd best-pokemon-cards
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Then open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Available Scripts
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Run these from the `best-pokemon-cards/` subdirectory:
 
-## Learn More
+```bash
+npm run lint
+npm run dev
+npm run build
+npm run start
+```
 
-To learn more about Next.js, take a look at the following resources:
+## Project Notes
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- App framework: Next.js App Router
+- Data source: local seed file in `src/lib/data/gen-one-cards.ts`
+- Current scope: 10 sample Gen 1 Pokemon
+- Future-ready model: structured so the dataset can expand to all 151 later without introducing a database yet
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Deploy to Vercel
 
-## Deploy on Vercel
+When creating the Vercel project for this repo:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Import the Git repository into Vercel.
+2. Set the **Root Directory** to `best-pokemon-cards`.
+3. Keep the default Next.js build settings unless you intentionally customize them.
+4. Deploy.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Vercel will then run the app from the correct subdirectory instead of the repo root.
+
+## MVP Features
+
+- Searchable homepage grid
+- Detail pages at `/pokemon/[slug]`
+- Card image, set, number, short reason, and confidence label
+- Expanded explanation plus evidence and external links on each detail page
+- Local seed data only for now
+
+## Next Expansion Ideas
+
+- Expand from 10 sample entries to all 151 Gen 1 Pokemon
+- Replace local seed data with a database when curation needs editing workflows
+- Add richer competitive evidence and source normalization per Pokemon
+
+## Tech Reference
+
+- [Next.js documentation](https://nextjs.org/docs)
+- [Vercel deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying)
