@@ -1,0 +1,8 @@
+{
+  "pokemonName": "Gengarls data/candidates",
+  "slug": "gengarls-data-candidates",
+  "fetchedAt": "2026-04-26T05:17:31.248Z",
+  "query": "supertype:\"Pokémon\" AND name:\"*Gengarls data/candidates*\"",
+  "totalCount": 0,
+  "cards": []
+}

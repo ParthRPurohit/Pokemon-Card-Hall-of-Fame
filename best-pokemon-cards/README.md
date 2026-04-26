@@ -36,6 +36,7 @@ npm run lint
 npm run dev
 npm run build
 npm run start
+npm run fetch:candidates -- Charizard
 ```
 
 ## Project Notes
@@ -63,6 +64,29 @@ Vercel will then run the app from the correct subdirectory instead of the repo r
 - Card image, set, number, short reason, and confidence label
 - Expanded explanation plus evidence and external links on each detail page
 - Local seed data only for now
+
+## Candidate Fetcher
+
+Use the candidate fetcher to pull all matching Pokemon card candidates for a given Pokemon name from the Pokemon TCG API v2:
+
+```bash
+npm run fetch:candidates -- Charizard
+```
+
+What it does:
+
+- Searches the Pokemon TCG API cards endpoint for Pokemon cards whose name contains the provided Pokemon name
+- Saves a trimmed JSON payload for manual review
+- Preserves the curated best-card seed data already used by the app
+
+Output location:
+
+- `data/candidates/[pokemon-slug].json`
+
+Example output files:
+
+- `data/candidates/charizard.json`
+- `data/candidates/gengar.json`
 
 ## Next Expansion Ideas
 

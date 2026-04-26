@@ -1,0 +1,5494 @@
+{
+  "pokemonName": "Charizard",
+  "slug": "charizard",
+  "fetchedAt": "2026-04-26T05:17:30.813Z",
+  "query": "supertype:\"Pokémon\" AND name:\"*Charizard*\"",
+  "totalCount": 107,
+  "cards": [
+    {
+      "id": "gym2-2",
+      "name": "Blaine's Charizard",
+      "set": {
+        "name": "Gym Challenge",
+        "series": "Gym",
+        "releaseDate": "2000/10/16"
+      },
+      "number": "2",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/gym2/2.png",
+        "large": "https://images.pokemontcg.io/gym2/2_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/gym2-2"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Roaring Flames",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "20+",
+          "text": "Discard all Fire Energy cards attached to Blaine's Charizard. If all Energy cards attached to Blaine's Charizard provide 2 Fire Energy, discard all of them. This attack does 20 damage plus 20 more damage for each Fire Energy discarded in this way."
+        },
+        {
+          "name": "Flame Jet",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "",
+          "text": "Flip a coin. If heads, choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. Don't apply Weakness and Resistance for this attack. (Any other effects that would happen after applying Weakness and Resistance still happen.)"
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "base1-4",
+      "name": "Charizard",
+      "set": {
+        "name": "Base",
+        "series": "Base",
+        "releaseDate": "1999/01/09"
+      },
+      "number": "4",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/base1/4.png",
+        "large": "https://images.pokemontcg.io/base1/4_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/base1-4"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Energy Burn",
+          "text": "As often as you like during your turn (before your attack), you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fire Spin",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100",
+          "text": "Discard 2 Energy cards attached to Charizard in order to use this attack."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "base4-4",
+      "name": "Charizard",
+      "set": {
+        "name": "Base Set 2",
+        "series": "Base",
+        "releaseDate": "2000/02/24"
+      },
+      "number": "4",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/base4/4.png",
+        "large": "https://images.pokemontcg.io/base4/4_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/base4-4"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Energy Burn",
+          "text": "As often as you like during your turn (before your attack), you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fire Spin",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100",
+          "text": "Discard 2 Energy cards attached to Charizard in order to use this attack."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "base6-3",
+      "name": "Charizard",
+      "set": {
+        "name": "Legendary Collection",
+        "series": "Other",
+        "releaseDate": "2002/05/24"
+      },
+      "number": "3",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/base6/3.png",
+        "large": "https://images.pokemontcg.io/base6/3_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/base6-3"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Energy Burn",
+          "text": "As often as you like during your turn (before your attack), you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is affected by a Special Condition.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fire Spin",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100",
+          "text": "Discard 2 Energy cards attached to Charizard or this attack does nothing."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "ecard1-6",
+      "name": "Charizard",
+      "set": {
+        "name": "Expedition Base Set",
+        "series": "E-Card",
+        "releaseDate": "2002/09/15"
+      },
+      "number": "6",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/ecard1/6.png",
+        "large": "https://images.pokemontcg.io/ecard1/6_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/ecard1-6"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Burning Energy",
+          "text": "Once during your turn (before your attack), you may turn all basic Energy attached to all of your Pokémon into Fire Energy for the rest of the turn. This power can't be used if Charizard is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Scorching Whirlwind",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "Flip 2 coins. If 1 of them is tails, discard 2 Energy cards attached to Charizard. If both are tails, discard all Energy cards attached to Charizard."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "ecard1-39",
+      "name": "Charizard",
+      "set": {
+        "name": "Expedition Base Set",
+        "series": "E-Card",
+        "releaseDate": "2002/09/15"
+      },
+      "number": "39",
+      "rarity": "Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/ecard1/39.png",
+        "large": "https://images.pokemontcg.io/ecard1/39_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/ecard1-39"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Tail Smash",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "40",
+          "text": "Flip a coin. If tails, this attack does nothing."
+        },
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Discard 1 Fire Energy card attached to Charizard."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "ecard1-40",
+      "name": "Charizard",
+      "set": {
+        "name": "Expedition Base Set",
+        "series": "E-Card",
+        "releaseDate": "2002/09/15"
+      },
+      "number": "40",
+      "rarity": "Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/ecard1/40.png",
+        "large": "https://images.pokemontcg.io/ecard1/40_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/ecard1-40"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Burning Energy",
+          "text": "Once during your turn (before your attack), you may turn all basic Energy attached to all of your Pokémon into Fire Energy for the rest of the turn. This power can't be used if Charizard is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Scorching Whirlwind",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "Flip 2 coins. If 1 of them is tails, discard 2 Energy cards attached to Charizard. If both are tails, discard all Energy cards attached to Charizard."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "ecard3-146",
+      "name": "Charizard",
+      "set": {
+        "name": "Skyridge",
+        "series": "E-Card",
+        "releaseDate": "2003/05/12"
+      },
+      "number": "146",
+      "rarity": "Rare Secret",
+      "images": {
+        "small": "https://images.pokemontcg.io/ecard3/146.png",
+        "large": "https://images.pokemontcg.io/ecard3/146_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/ecard3-146"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Crystal Type",
+          "text": "Whenever you attach a Fire, Lightning, or Fighting basic Energy card from your hand to Charizard, Charizard's type (color) becomes the same as that type of Energy until the end of the turn.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fireblast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fighting"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Discard an Energy card attached to Charizard."
+        },
+        {
+          "name": "Dragon Tail",
+          "cost": [
+            "Fire",
+            "Lightning",
+            "Lightning",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "50×",
+          "text": "Flip 2 coins. This attack does 50 damage times the number of heads."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "ex3-100",
+      "name": "Charizard",
+      "set": {
+        "name": "Dragon",
+        "series": "EX",
+        "releaseDate": "2003/11/24"
+      },
+      "number": "100",
+      "rarity": "Rare Secret",
+      "images": {
+        "small": "https://images.pokemontcg.io/ex3/100.png",
+        "large": "https://images.pokemontcg.io/ex3/100_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/ex3-100"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Collect Fire",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Flip a coin. If heads, search your discard pile for 2 Fire Energy cards and attach them to Charizard (1 if there is only 1)."
+        },
+        {
+          "name": "Flame Pillar",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "60",
+          "text": "You may discard a Fire Energy card attached to Charizard. If you do, choose 1 of your opponent's Benched Pokémon and do 30 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "ex16-6",
+      "name": "Charizard",
+      "set": {
+        "name": "Power Keepers",
+        "series": "EX",
+        "releaseDate": "2007/02/02"
+      },
+      "number": "6",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/ex16/6.png",
+        "large": "https://images.pokemontcg.io/ex16/6_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/ex16-6"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Combustion",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": ""
+        },
+        {
+          "name": "Bursting Inferno",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "50",
+          "text": "Each Defending Pokémon is now Burned."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "dp3-3",
+      "name": "Charizard",
+      "set": {
+        "name": "Secret Wonders",
+        "series": "Diamond & Pearl",
+        "releaseDate": "2007/11/01"
+      },
+      "number": "3",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/dp3/3.png",
+        "large": "https://images.pokemontcg.io/dp3/3_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/dp3-3"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Fury Blaze",
+          "text": "If your opponent has 3 or less Prize cards left, each of Charizard's attacks does 50 more damage to the Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Blast Burn",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "Flip a coin. If heads, discard 2 Energy cards attached to Charizard. If tails, discard 4 Energy cards attached to Charizard. (If you can't, this attack does nothing.)"
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "dp7-103",
+      "name": "Charizard",
+      "set": {
+        "name": "Stormfront",
+        "series": "Diamond & Pearl",
+        "releaseDate": "2008/11/01"
+      },
+      "number": "103",
+      "rarity": "Rare Secret",
+      "images": {
+        "small": "https://images.pokemontcg.io/dp7/103.png",
+        "large": "https://images.pokemontcg.io/dp7/103_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/dp7-103"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Energy Burn",
+          "text": "All Energy attached to Charizard are Fire Energy instead of their usual type.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fire Spin",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100",
+          "text": "Discard 2 Energy attached to Charizard."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "pl4-1",
+      "name": "Charizard",
+      "set": {
+        "name": "Arceus",
+        "series": "Platinum",
+        "releaseDate": "2009/11/04"
+      },
+      "number": "1",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/pl4/1.png",
+        "large": "https://images.pokemontcg.io/pl4/1_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pl4-1"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Fire Formation",
+          "text": "Each of Charizard's attacks does 10 more damage for each Fire Pokémon on your Bench to your opponent's Active Pokémon (before applying Weakness and Resistance).",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fire Wing",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "30",
+          "text": ""
+        },
+        {
+          "name": "Burning Tail",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": "Discard a Fire Energy attached to Charizard."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "bw7-20",
+      "name": "Charizard",
+      "set": {
+        "name": "Boundaries Crossed",
+        "series": "Black & White",
+        "releaseDate": "2012/11/07"
+      },
+      "number": "20",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/bw7/20.png",
+        "large": "https://images.pokemontcg.io/bw7/20_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/bw7-20"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Split Bomb",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "",
+          "text": "This attack does 40 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Scorching Fire",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "150",
+          "text": "Discard a Fire Energy attached to this Pokémon."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "bw8-136",
+      "name": "Charizard",
+      "set": {
+        "name": "Plasma Storm",
+        "series": "Black & White",
+        "releaseDate": "2013/02/06"
+      },
+      "number": "136",
+      "rarity": "Rare Secret",
+      "images": {
+        "small": "https://images.pokemontcg.io/bw8/136.png",
+        "large": "https://images.pokemontcg.io/bw8/136_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/bw8-136"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Split Bomb",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "",
+          "text": "This attack does 40 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Scorching Fire",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "150",
+          "text": "Discard a Fire Energy attached to this Pokémon."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "bw11-19",
+      "name": "Charizard",
+      "set": {
+        "name": "Legendary Treasures",
+        "series": "Black & White",
+        "releaseDate": "2013/11/06"
+      },
+      "number": "19",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/bw11/19.png",
+        "large": "https://images.pokemontcg.io/bw11/19_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/bw11-19"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Split Bomb",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "",
+          "text": "This attack does 40 damage to 2 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Scorching Fire",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "150",
+          "text": "Discard a Fire Energy attached to this Pokémon."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "g1-RC5",
+      "name": "Charizard",
+      "set": {
+        "name": "Generations",
+        "series": "XY",
+        "releaseDate": "2016/02/22"
+      },
+      "number": "RC5",
+      "rarity": "Uncommon",
+      "images": {
+        "small": "https://images.pokemontcg.io/g1/RC5.png",
+        "large": "https://images.pokemontcg.io/g1/RC5_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/g1-RC5"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Recall",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Choose 1 of this Pokémon's attacks from its previous Evolutions and use it as this attack."
+        },
+        {
+          "name": "Combustion Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "130",
+          "text": "This Pokémon can't use Combustion Blast during your next turn."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "xy12-11",
+      "name": "Charizard",
+      "set": {
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016/11/02"
+      },
+      "number": "11",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/xy12/11.png",
+        "large": "https://images.pokemontcg.io/xy12/11_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xy12-11"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Energy Burn",
+          "text": "All Energy attached to this Pokémon are Fire Energy instead of their usual type.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fire Spin",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "200",
+          "text": "Discard 3 Energy attached to this Pokémon."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "smp-SM158",
+      "name": "Charizard",
+      "set": {
+        "name": "SM Black Star Promos",
+        "series": "Sun & Moon",
+        "releaseDate": "2017/02/03"
+      },
+      "number": "SM158",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/smp/SM158.png",
+        "large": "https://images.pokemontcg.io/smp/SM158_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/smp-SM158"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Roaring Resolve",
+          "text": "Once during your turn (before your attack), you may put 2 damage counters on this Pokémon. If you do, search your deck for up to 2 Fire Energy cards and attach them to this Pokémon. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Continuous Blaze Ball",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "Discard all Fire Energy from this Pokémon. This attack does 50 more damage for each card you discarded in this way."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "smp-SM226",
+      "name": "Charizard",
+      "set": {
+        "name": "SM Black Star Promos",
+        "series": "Sun & Moon",
+        "releaseDate": "2017/02/03"
+      },
+      "number": "SM226",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/smp/SM226.png",
+        "large": "https://images.pokemontcg.io/smp/SM226_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/smp-SM226"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Roaring Resolve",
+          "text": "Once during your turn (before your attack), you may put 2 damage counters on this Pokémon. If you do, search your deck for up to 2 Fire Energy cards and attach them to this Pokémon. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Continuous Blaze Ball",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "Discard all Fire Energy from this Pokémon. This attack does 50 more damage for each card you discarded in this way."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "sm75-3",
+      "name": "Charizard",
+      "set": {
+        "name": "Dragon Majesty",
+        "series": "Sun & Moon",
+        "releaseDate": "2018/09/07"
+      },
+      "number": "3",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm75/3.png",
+        "large": "https://images.pokemontcg.io/sm75/3_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sm75-3"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Resolute Flame",
+          "text": "This Pokémon's attacks do 30 more damage to your opponent's Active Pokémon for each of their Pokémon-GX and Pokémon-EX in play.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fiery Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130",
+          "text": "Discard an Energy from this Pokémon."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "sm9-14",
+      "name": "Charizard",
+      "set": {
+        "name": "Team Up",
+        "series": "Sun & Moon",
+        "releaseDate": "2019/02/01"
+      },
+      "number": "14",
+      "rarity": "Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm9/14.png",
+        "large": "https://images.pokemontcg.io/sm9/14_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sm9-14"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Roaring Resolve",
+          "text": "Once during your turn (before your attack), you may put 2 damage counters on this Pokémon. If you do, search your deck for up to 2 Fire Energy cards and attach them to this Pokémon. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Continuous Blaze Ball",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "Discard all Fire Energy from this Pokémon. This attack does 50 more damage for each card you discarded in this way."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "det1-5",
+      "name": "Charizard",
+      "set": {
+        "name": "Detective Pikachu",
+        "series": "Sun & Moon",
+        "releaseDate": "2019/04/05"
+      },
+      "number": "5",
+      "rarity": "Rare Ultra",
+      "images": {
+        "small": "https://images.pokemontcg.io/det1/5.png",
+        "large": "https://images.pokemontcg.io/det1/5_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/det1-5"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Slash",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": ""
+        },
+        {
+          "name": "Wild Tackle",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": "This Pokémon does 50 damage to itself."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swshp-SWSH066",
+      "name": "Charizard",
+      "set": {
+        "name": "SWSH Black Star Promos",
+        "series": "Sword & Shield",
+        "releaseDate": "2019/11/15"
+      },
+      "number": "SWSH066",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/swshp/SWSH066.png",
+        "large": "https://images.pokemontcg.io/swshp/SWSH066_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH066"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Battle Sense",
+          "text": "Once during your turn, you may look at the top 3 cards of your deck and put 1 of them into your hand. Discard the other cards.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Royal Blaze",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "100+",
+          "text": "This attack does 50 more damage for each Leon card in your discard pile."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swsh4-25",
+      "name": "Charizard",
+      "set": {
+        "name": "Vivid Voltage",
+        "series": "Sword & Shield",
+        "releaseDate": "2020/11/13"
+      },
+      "number": "25",
+      "rarity": "Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh4/25.png",
+        "large": "https://images.pokemontcg.io/swsh4/25_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh4-25"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Battle Sense",
+          "text": "Once during your turn, you may look at the top 3 cards of your deck and put 1 of them into your hand. Discard the other cards.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Royal Blaze",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "100+",
+          "text": "This attack does 50 more damage for each Leon card in your discard pile."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "cel25c-4_A",
+      "name": "Charizard",
+      "set": {
+        "name": "Celebrations: Classic Collection",
+        "series": "Sword & Shield",
+        "releaseDate": "2021/10/08"
+      },
+      "number": "4",
+      "rarity": "Classic Collection",
+      "images": {
+        "small": "https://images.pokemontcg.io/cel25c/4_A.png",
+        "large": "https://images.pokemontcg.io/cel25c/4_A_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/cel25c-4_A"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Energy Burn",
+          "text": "As often as you like during your turn (before your attack), you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "name": "Fire Spin",
+          "damage": "100",
+          "text": "Discard 2 Energy cards attached to Charizard in order to use this attack.",
+          "convertedEnergyCost": 4
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "pgo-10",
+      "name": "Charizard",
+      "set": {
+        "name": "Pokémon GO",
+        "series": "Sword & Shield",
+        "releaseDate": "2022/07/01"
+      },
+      "number": "10",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/pgo/10.png",
+        "large": "https://images.pokemontcg.io/pgo/10_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pgo-10"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Burn Brightly",
+          "text": "Each basic Fire Energy attached to your Pokémon provides FireFire Energy. You can't apply more than 1 Burn Brightly Ability at a time.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Flare Blitz",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "170",
+          "text": "Discard all Fire Energy from this Pokémon."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swsh11tg-TG03",
+      "name": "Charizard",
+      "set": {
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "releaseDate": "2022/09/09"
+      },
+      "number": "TG03",
+      "rarity": "Trainer Gallery Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh11tg/TG03.png",
+        "large": "https://images.pokemontcg.io/swsh11tg/TG03_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG03"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Battle Sense",
+          "text": "Once during your turn, you may look at the top 3 cards of your deck and put 1 of them into your hand. Discard the other cards.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Royal Blaze",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "100+",
+          "text": "This attack does 50 more damage for each Leon card in your discard pile."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "smp-SM230",
+      "name": "Charizard & Braixen-GX",
+      "set": {
+        "name": "SM Black Star Promos",
+        "series": "Sun & Moon",
+        "releaseDate": "2017/02/03"
+      },
+      "number": "SM230",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/smp/SM230.png",
+        "large": "https://images.pokemontcg.io/smp/SM230_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/smp-SM230"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Brilliant Flare",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": "You may search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Crimson Flame Pillar-GX",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Attach 5 basic Energy cards from your discard pile to your Pokémon in any way you like. If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), your opponent's Active Pokémon is now Burned and Confused. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6,
+        654
+      ]
+    },
+    {
+      "id": "sm12-22",
+      "name": "Charizard & Braixen-GX",
+      "set": {
+        "name": "Cosmic Eclipse",
+        "series": "Sun & Moon",
+        "releaseDate": "2019/11/01"
+      },
+      "number": "22",
+      "rarity": "Rare Holo GX",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm12/22.png",
+        "large": "https://images.pokemontcg.io/sm12/22_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sm12-22"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Brilliant Flare",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": "You may search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Crimson Flame Pillar-GX",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Attach 5 basic Energy cards from your discard pile to your Pokémon in any way you like. If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), your opponent's Active Pokémon is now Burned and Confused. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6,
+        654
+      ]
+    },
+    {
+      "id": "sm12-212",
+      "name": "Charizard & Braixen-GX",
+      "set": {
+        "name": "Cosmic Eclipse",
+        "series": "Sun & Moon",
+        "releaseDate": "2019/11/01"
+      },
+      "number": "212",
+      "rarity": "Rare Ultra",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm12/212.png",
+        "large": "https://images.pokemontcg.io/sm12/212_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sm12-212"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Brilliant Flare",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": "You may search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Crimson Flame Pillar-GX",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Attach 5 basic Energy cards from your discard pile to your Pokémon in any way you like. If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), your opponent's Active Pokémon is now Burned and Confused. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6,
+        654
+      ]
+    },
+    {
+      "id": "sm12-251",
+      "name": "Charizard & Braixen-GX",
+      "set": {
+        "name": "Cosmic Eclipse",
+        "series": "Sun & Moon",
+        "releaseDate": "2019/11/01"
+      },
+      "number": "251",
+      "rarity": "Rare Rainbow",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm12/251.png",
+        "large": "https://images.pokemontcg.io/sm12/251_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sm12-251"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Brilliant Flare",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": "You may search your deck for up to 3 cards and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Crimson Flame Pillar-GX",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Attach 5 basic Energy cards from your discard pile to your Pokémon in any way you like. If this Pokémon has at least 1 extra Energy attached to it (in addition to this attack's cost), your opponent's Active Pokémon is now Burned and Confused. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6,
+        654
+      ]
+    },
+    {
+      "id": "pl3-20",
+      "name": "Charizard G",
+      "set": {
+        "name": "Supreme Victors",
+        "series": "Platinum",
+        "releaseDate": "2009/08/19"
+      },
+      "number": "20",
+      "rarity": "Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/pl3/20.png",
+        "large": "https://images.pokemontcg.io/pl3/20_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pl3-20"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Flame Jet",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "",
+          "text": "Flip a coin. If heads, this attack does 40 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Heat Blast",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": ""
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "dpp-DP45",
+      "name": "Charizard G LV.X",
+      "set": {
+        "name": "DP Black Star Promos",
+        "series": "Diamond & Pearl",
+        "releaseDate": "2007/05/01"
+      },
+      "number": "DP45",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/dpp/DP45.png",
+        "large": "https://images.pokemontcg.io/dpp/DP45_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/dpp-DP45"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Call for Power",
+          "text": "As often as you like during your turn (before your attack), you may move an Energy attached to 1 of your Pokémon to Charizard G. This power can't be used if Charizard G is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Malevolent Fire",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "150",
+          "text": "Flip a coin. If tails, discard all Energy attached to Charizard G."
+        }
+      ],
+      "rules": [
+        "Put this card onto your Active Charizard G. Charizard G LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "pl3-143",
+      "name": "Charizard G LV.X",
+      "set": {
+        "name": "Supreme Victors",
+        "series": "Platinum",
+        "releaseDate": "2009/08/19"
+      },
+      "number": "143",
+      "rarity": "Rare Holo LV.X",
+      "images": {
+        "small": "https://images.pokemontcg.io/pl3/143.png",
+        "large": "https://images.pokemontcg.io/pl3/143_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pl3-143"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Call for Power",
+          "text": "As often as you like during your turn (before your attack), you may move an Energy attached to 1 of your Pokémon to Charizard G. This power can't be used if Charizard G is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Malevolent Fire",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "150",
+          "text": "Flip a coin. If tails, discard all Energy attached to Charizard G."
+        }
+      ],
+      "rules": [
+        "Put this card onto your Active Charizard G. Charizard G LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swshp-SWSH050",
+      "name": "Charizard V",
+      "set": {
+        "name": "SWSH Black Star Promos",
+        "series": "Sword & Shield",
+        "releaseDate": "2019/11/15"
+      },
+      "number": "SWSH050",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/swshp/SWSH050.png",
+        "large": "https://images.pokemontcg.io/swshp/SWSH050_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH050"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": ""
+        },
+        {
+          "name": "Fire Spin",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "220",
+          "text": "Discard 2 Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swshp-SWSH260",
+      "name": "Charizard V",
+      "set": {
+        "name": "SWSH Black Star Promos",
+        "series": "Sword & Shield",
+        "releaseDate": "2019/11/15"
+      },
+      "number": "SWSH260",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/swshp/SWSH260.png",
+        "large": "https://images.pokemontcg.io/swshp/SWSH260_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH260"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Incinerate",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Heat Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": ""
+        }
+      ],
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swsh3-19",
+      "name": "Charizard V",
+      "set": {
+        "name": "Darkness Ablaze",
+        "series": "Sword & Shield",
+        "releaseDate": "2020/08/14"
+      },
+      "number": "19",
+      "rarity": "Rare Holo V",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh3/19.png",
+        "large": "https://images.pokemontcg.io/swsh3/19_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh3-19"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": ""
+        },
+        {
+          "name": "Fire Spin",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "220",
+          "text": "Discard 2 Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swsh35-79",
+      "name": "Charizard V",
+      "set": {
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "releaseDate": "2020/09/25"
+      },
+      "number": "79",
+      "rarity": "Rare Secret",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh35/79.png",
+        "large": "https://images.pokemontcg.io/swsh35/79_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh35-79"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "80",
+          "text": ""
+        },
+        {
+          "name": "Fire Spin",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "220",
+          "text": "Discard 2 Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swsh9-17",
+      "name": "Charizard V",
+      "set": {
+        "name": "Brilliant Stars",
+        "series": "Sword & Shield",
+        "releaseDate": "2022/02/25"
+      },
+      "number": "17",
+      "rarity": "Rare Holo V",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh9/17.png",
+        "large": "https://images.pokemontcg.io/swsh9/17_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-17"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Incinerate",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Heat Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": ""
+        }
+      ],
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swsh9-153",
+      "name": "Charizard V",
+      "set": {
+        "name": "Brilliant Stars",
+        "series": "Sword & Shield",
+        "releaseDate": "2022/02/25"
+      },
+      "number": "153",
+      "rarity": "Rare Ultra",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh9/153.png",
+        "large": "https://images.pokemontcg.io/swsh9/153_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-153"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Incinerate",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Heat Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": ""
+        }
+      ],
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swsh9-154",
+      "name": "Charizard V",
+      "set": {
+        "name": "Brilliant Stars",
+        "series": "Sword & Shield",
+        "releaseDate": "2022/02/25"
+      },
+      "number": "154",
+      "rarity": "Rare Ultra",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh9/154.png",
+        "large": "https://images.pokemontcg.io/swsh9/154_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-154"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Incinerate",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Heat Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": ""
+        }
+      ],
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swsh12pt5-18",
+      "name": "Charizard V",
+      "set": {
+        "name": "Crown Zenith",
+        "series": "Sword & Shield",
+        "releaseDate": "2023/01/20"
+      },
+      "number": "18",
+      "rarity": "Rare Holo V",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh12pt5/18.png",
+        "large": "https://images.pokemontcg.io/swsh12pt5/18_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-18"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Incinerate",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Before doing damage, discard all Pokémon Tools from your opponent's Active Pokémon."
+        },
+        {
+          "name": "Heat Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "180",
+          "text": ""
+        }
+      ],
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swshp-SWSH261",
+      "name": "Charizard VMAX",
+      "set": {
+        "name": "SWSH Black Star Promos",
+        "series": "Sword & Shield",
+        "releaseDate": "2019/11/15"
+      },
+      "number": "SWSH261",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/swshp/SWSH261.png",
+        "large": "https://images.pokemontcg.io/swshp/SWSH261_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH261"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": ""
+        },
+        {
+          "name": "G-Max Wildfire",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "Discard 2 Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swsh3-20",
+      "name": "Charizard VMAX",
+      "set": {
+        "name": "Darkness Ablaze",
+        "series": "Sword & Shield",
+        "releaseDate": "2020/08/14"
+      },
+      "number": "20",
+      "rarity": "Rare Holo VMAX",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh3/20.png",
+        "large": "https://images.pokemontcg.io/swsh3/20_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh3-20"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": ""
+        },
+        {
+          "name": "G-Max Wildfire",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "Discard 2 Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swsh35-74",
+      "name": "Charizard VMAX",
+      "set": {
+        "name": "Champion's Path",
+        "series": "Sword & Shield",
+        "releaseDate": "2020/09/25"
+      },
+      "number": "74",
+      "rarity": "Rare Rainbow",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh35/74.png",
+        "large": "https://images.pokemontcg.io/swsh35/74_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh35-74"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": ""
+        },
+        {
+          "name": "G-Max Wildfire",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "Discard 2 Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swsh45sv-SV107",
+      "name": "Charizard VMAX",
+      "set": {
+        "name": "Shining Fates Shiny Vault",
+        "series": "Sword & Shield",
+        "releaseDate": "2021/02/19"
+      },
+      "number": "SV107",
+      "rarity": "Rare Holo VMAX",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh45sv/SV107.png",
+        "large": "https://images.pokemontcg.io/swsh45sv/SV107_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh45sv-SV107"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Claw Slash",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "100",
+          "text": ""
+        },
+        {
+          "name": "G-Max Wildfire",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "Discard 2 Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swshp-SWSH262",
+      "name": "Charizard VSTAR",
+      "set": {
+        "name": "SWSH Black Star Promos",
+        "series": "Sword & Shield",
+        "releaseDate": "2019/11/15"
+      },
+      "number": "SWSH262",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/swshp/SWSH262.png",
+        "large": "https://images.pokemontcg.io/swshp/SWSH262_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH262"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Explosive Fire",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130+",
+          "text": "If this Pokémon has any damage counters on it, this attack does 100 more damage."
+        },
+        {
+          "name": "Star Blaze",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "320",
+          "text": "Discard 2 Energy from this Pokémon. (You can't use more than 1 VSTAR Power in a game.)"
+        }
+      ],
+      "rules": [
+        "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swsh9-18",
+      "name": "Charizard VSTAR",
+      "set": {
+        "name": "Brilliant Stars",
+        "series": "Sword & Shield",
+        "releaseDate": "2022/02/25"
+      },
+      "number": "18",
+      "rarity": "Rare Holo VSTAR",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh9/18.png",
+        "large": "https://images.pokemontcg.io/swsh9/18_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-18"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Explosive Fire",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130+",
+          "text": "If this Pokémon has any damage counters on it, this attack does 100 more damage."
+        },
+        {
+          "name": "Star Blaze",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "320",
+          "text": "Discard 2 Energy from this Pokémon. (You can't use more than 1 VSTAR Power in a game.)"
+        }
+      ],
+      "rules": [
+        "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swsh9-174",
+      "name": "Charizard VSTAR",
+      "set": {
+        "name": "Brilliant Stars",
+        "series": "Sword & Shield",
+        "releaseDate": "2022/02/25"
+      },
+      "number": "174",
+      "rarity": "Rare Rainbow",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh9/174.png",
+        "large": "https://images.pokemontcg.io/swsh9/174_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh9-174"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Explosive Fire",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130+",
+          "text": "If this Pokémon has any damage counters on it, this attack does 100 more damage."
+        },
+        {
+          "name": "Star Blaze",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "320",
+          "text": "Discard 2 Energy from this Pokémon. (You can't use more than 1 VSTAR Power in a game.)"
+        }
+      ],
+      "rules": [
+        "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swsh12pt5-19",
+      "name": "Charizard VSTAR",
+      "set": {
+        "name": "Crown Zenith",
+        "series": "Sword & Shield",
+        "releaseDate": "2023/01/20"
+      },
+      "number": "19",
+      "rarity": "Rare Holo VSTAR",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh12pt5/19.png",
+        "large": "https://images.pokemontcg.io/swsh12pt5/19_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-19"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Explosive Fire",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "130+",
+          "text": "If this Pokémon has any damage counters on it, this attack does 100 more damage."
+        },
+        {
+          "name": "Star Blaze",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "320",
+          "text": "Discard 2 Energy from this Pokémon. (You can't use more than 1 VSTAR Power in a game.)"
+        }
+      ],
+      "rules": [
+        "VSTAR rule: When your Pokémon VSTAR is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "ex6-105",
+      "name": "Charizard ex",
+      "set": {
+        "name": "FireRed & LeafGreen",
+        "series": "EX",
+        "releaseDate": "2004/09/01"
+      },
+      "number": "105",
+      "rarity": "Rare Holo EX",
+      "images": {
+        "small": "https://images.pokemontcg.io/ex6/105.png",
+        "large": "https://images.pokemontcg.io/ex6/105_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/ex6-105"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Energy Flame",
+          "text": "All Energy attached to Charizard ex are Fire Energy instead of its usual type.",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Slash",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "50",
+          "text": ""
+        },
+        {
+          "name": "Burn Down",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "200",
+          "text": "Discard 5 Fire Energy attached to Charizard ex. This attack's damage isn't affected by Weakness, Resistance, Poké-Powers, Poké-Bodies, and any other effects on the Defending Pokémon."
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "svp-196",
+      "name": "Charizard ex",
+      "set": {
+        "name": "Scarlet & Violet Promos",
+        "series": "Scarlet & Violet",
+        "releaseDate": "2022/11/01"
+      },
+      "number": "196",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/svp/196.png",
+        "large": "https://images.pokemontcg.io/svp/196_hires.png"
+      },
+      "tcgplayer": {
+        "url": null
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Infernal Reign",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 3 Basic Fire Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Burning Darkness",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "180+",
+          "text": "This attack does 30 more damage for each Prize card your opponent has taken."
+        }
+      ],
+      "rules": [
+        "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "svp-56",
+      "name": "Charizard ex",
+      "set": {
+        "name": "Scarlet & Violet Black Star Promos",
+        "series": "Scarlet & Violet",
+        "releaseDate": "2023/01/01"
+      },
+      "number": "56",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/svp/56.png",
+        "large": "https://images.pokemontcg.io/svp/56_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/svp-56"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Infernal Reign",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 3 Basic Fire Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Burning Darkness",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "180+",
+          "text": "This attack does 30 more damage for each Prize card your opponent has taken."
+        }
+      ],
+      "rules": [
+        "Tera: As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "svp-74",
+      "name": "Charizard ex",
+      "set": {
+        "name": "Scarlet & Violet Black Star Promos",
+        "series": "Scarlet & Violet",
+        "releaseDate": "2023/01/01"
+      },
+      "number": "74",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/svp/74.png",
+        "large": "https://images.pokemontcg.io/svp/74_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/svp-74"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Infernal Reign",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 3 Basic Fire Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Burning Darkness",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "180+",
+          "text": "This attack does 30 more damage for each Prize card your opponent has taken."
+        }
+      ],
+      "rules": [
+        "As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "svp-161",
+      "name": "Charizard ex",
+      "set": {
+        "name": "Scarlet & Violet Black Star Promos",
+        "series": "Scarlet & Violet",
+        "releaseDate": "2023/01/01"
+      },
+      "number": "161",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/svp/161.png",
+        "large": "https://images.pokemontcg.io/svp/161_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/svp-161"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Brave Wing",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60+",
+          "text": "If this Pokémon has any damage counters on it, this attack does 100 more damage."
+        },
+        {
+          "name": "Explosive Vortex",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "330",
+          "text": "Discard 3 Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "sv3-125",
+      "name": "Charizard ex",
+      "set": {
+        "name": "Obsidian Flames",
+        "series": "Scarlet & Violet",
+        "releaseDate": "2023/08/11"
+      },
+      "number": "125",
+      "rarity": "Double Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/sv3/125.png",
+        "large": "https://images.pokemontcg.io/sv3/125_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sv3-125"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Infernal Reign",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 3 Basic Fire Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Burning Darkness",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "180+",
+          "text": "This attack does 30 more damage for each Prize card your opponent has taken."
+        }
+      ],
+      "rules": [
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+        "Tera: As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's)."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "sv3-215",
+      "name": "Charizard ex",
+      "set": {
+        "name": "Obsidian Flames",
+        "series": "Scarlet & Violet",
+        "releaseDate": "2023/08/11"
+      },
+      "number": "215",
+      "rarity": "Ultra Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/sv3/215.png",
+        "large": "https://images.pokemontcg.io/sv3/215_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sv3-215"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Infernal Reign",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 3 Basic Fire Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Burning Darkness",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "180+",
+          "text": "This attack does 30 more damage for each Prize card your opponent has taken."
+        }
+      ],
+      "rules": [
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+        "Tera: As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's)."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "sv3-223",
+      "name": "Charizard ex",
+      "set": {
+        "name": "Obsidian Flames",
+        "series": "Scarlet & Violet",
+        "releaseDate": "2023/08/11"
+      },
+      "number": "223",
+      "rarity": "Special Illustration Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/sv3/223.png",
+        "large": "https://images.pokemontcg.io/sv3/223_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sv3-223"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Infernal Reign",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 3 Basic Fire Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Burning Darkness",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "180+",
+          "text": "This attack does 30 more damage for each Prize card your opponent has taken."
+        }
+      ],
+      "rules": [
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+        "Tera: As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's)."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "sv3-228",
+      "name": "Charizard ex",
+      "set": {
+        "name": "Obsidian Flames",
+        "series": "Scarlet & Violet",
+        "releaseDate": "2023/08/11"
+      },
+      "number": "228",
+      "rarity": "Hyper Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/sv3/228.png",
+        "large": "https://images.pokemontcg.io/sv3/228_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sv3-228"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Infernal Reign",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 3 Basic Fire Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Burning Darkness",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "180+",
+          "text": "This attack does 30 more damage for each Prize card your opponent has taken."
+        }
+      ],
+      "rules": [
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+        "Tera: As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's)."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "sv3pt5-6",
+      "name": "Charizard ex",
+      "set": {
+        "name": "151",
+        "series": "Scarlet & Violet",
+        "releaseDate": "2023/09/22"
+      },
+      "number": "6",
+      "rarity": "Double Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/sv3pt5/6.png",
+        "large": "https://images.pokemontcg.io/sv3pt5/6_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-6"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Brave Wing",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60+",
+          "text": "If this Pokémon has any damage counters on it, this attack does 100 more damage."
+        },
+        {
+          "name": "Explosive Vortex",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "330",
+          "text": "Discard 3 Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "sv3pt5-183",
+      "name": "Charizard ex",
+      "set": {
+        "name": "151",
+        "series": "Scarlet & Violet",
+        "releaseDate": "2023/09/22"
+      },
+      "number": "183",
+      "rarity": "Ultra Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/sv3pt5/183.png",
+        "large": "https://images.pokemontcg.io/sv3pt5/183_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-183"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Brave Wing",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60+",
+          "text": "If this Pokémon has any damage counters on it, this attack does 100 more damage."
+        },
+        {
+          "name": "Explosive Vortex",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "330",
+          "text": "Discard 3 Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "sv3pt5-199",
+      "name": "Charizard ex",
+      "set": {
+        "name": "151",
+        "series": "Scarlet & Violet",
+        "releaseDate": "2023/09/22"
+      },
+      "number": "199",
+      "rarity": "Special Illustration Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/sv3pt5/199.png",
+        "large": "https://images.pokemontcg.io/sv3pt5/199_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-199"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Brave Wing",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "60+",
+          "text": "If this Pokémon has any damage counters on it, this attack does 100 more damage."
+        },
+        {
+          "name": "Explosive Vortex",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "330",
+          "text": "Discard 3 Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "sv4pt5-54",
+      "name": "Charizard ex",
+      "set": {
+        "name": "Paldean Fates",
+        "series": "Scarlet & Violet",
+        "releaseDate": "2024/01/26"
+      },
+      "number": "54",
+      "rarity": "Double Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/sv4pt5/54.png",
+        "large": "https://images.pokemontcg.io/sv4pt5/54_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sv4pt5-54"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Infernal Reign",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 3 Basic Fire Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Burning Darkness",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "180+",
+          "text": "This attack does 30 more damage for each Prize card your opponent has taken."
+        }
+      ],
+      "rules": [
+        "Tera: As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "sv4pt5-234",
+      "name": "Charizard ex",
+      "set": {
+        "name": "Paldean Fates",
+        "series": "Scarlet & Violet",
+        "releaseDate": "2024/01/26"
+      },
+      "number": "234",
+      "rarity": "Special Illustration Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/sv4pt5/234.png",
+        "large": "https://images.pokemontcg.io/sv4pt5/234_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sv4pt5-234"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Infernal Reign",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 3 Basic Fire Energy cards and attach them to your Pokémon in any way you like. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Burning Darkness",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "180+",
+          "text": "This attack does 30 more damage for each Prize card your opponent has taken."
+        }
+      ],
+      "rules": [
+        "Tera: As long as this Pokémon is on your Bench, prevent all damage done to this Pokémon by attacks (both yours and your opponent's).",
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "ex14-4",
+      "name": "Charizard δ",
+      "set": {
+        "name": "Crystal Guardians",
+        "series": "EX",
+        "releaseDate": "2006/08/01"
+      },
+      "number": "4",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/ex14/4.png",
+        "large": "https://images.pokemontcg.io/ex14/4_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/ex14-4"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Peal of Thunder",
+          "text": "Once during your turn, when you play Charizard from your hand to evolve 1 of your Pokémon, you may look at the top 5 cards of your deck, choose as many Energy cards as you like, and attach them to 1 of your Pokémon. Discard the other cards.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Metal Burn",
+          "cost": [
+            "Lightning",
+            "Metal",
+            "Metal",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "Discard all Metal Energy attached to Charizard."
+        }
+      ],
+      "rules": [
+        "This Pokémon is both Lightning Metal type."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "ex15-100",
+      "name": "Charizard ★ δ",
+      "set": {
+        "name": "Dragon Frontiers",
+        "series": "EX",
+        "releaseDate": "2006/11/01"
+      },
+      "number": "100",
+      "rarity": "Rare Holo Star",
+      "images": {
+        "small": "https://images.pokemontcg.io/ex15/100.png",
+        "large": "https://images.pokemontcg.io/ex15/100_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/ex15-100"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Rotating Claws",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "You may discard an Energy card attached to Charizard Star. If you do, search your discard pile for an Energy card (excluding the one you discarded) and attach it to Charizard Star."
+        },
+        {
+          "name": "Dark Swirl",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Darkness",
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "150",
+          "text": "Discard all Energy cards attached to Charizard Star and discard the top 3 cards from your opponent's deck."
+        }
+      ],
+      "rules": [
+        "You can't have more than 1 Pokémon Star in your deck."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "xyp-XY17",
+      "name": "Charizard-EX",
+      "set": {
+        "name": "XY Black Star Promos",
+        "series": "XY",
+        "releaseDate": "2013/10/12"
+      },
+      "number": "XY17",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/xyp/XY17.png",
+        "large": "https://images.pokemontcg.io/xyp/XY17_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY17"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Mega Ascension",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "",
+          "text": "Search your deck for M Charizard-EX, reveal it, and put it into your hand. Shuffle your deck afterward."
+        },
+        {
+          "name": "Brave Fire",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "This Pokémon does 30 damage to itself."
+        }
+      ],
+      "rules": [
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "xyp-XY29",
+      "name": "Charizard-EX",
+      "set": {
+        "name": "XY Black Star Promos",
+        "series": "XY",
+        "releaseDate": "2013/10/12"
+      },
+      "number": "XY29",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/xyp/XY29.png",
+        "large": "https://images.pokemontcg.io/xyp/XY29_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY29"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Stoke",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Flip a coin. If heads, search your deck for up to 3 basic Energy cards and attach them to this Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Fire Blast",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "xyp-XY121",
+      "name": "Charizard-EX",
+      "set": {
+        "name": "XY Black Star Promos",
+        "series": "XY",
+        "releaseDate": "2013/10/12"
+      },
+      "number": "XY121",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/xyp/XY121.png",
+        "large": "https://images.pokemontcg.io/xyp/XY121_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY121"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": ""
+        },
+        {
+          "name": "Combustion Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "150",
+          "text": "This Pokémon can't use Combustion Blast during your next turn."
+        }
+      ],
+      "rules": [
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "xy2-11",
+      "name": "Charizard-EX",
+      "set": {
+        "name": "Flashfire",
+        "series": "XY",
+        "releaseDate": "2014/05/07"
+      },
+      "number": "11",
+      "rarity": "Rare Holo EX",
+      "images": {
+        "small": "https://images.pokemontcg.io/xy2/11.png",
+        "large": "https://images.pokemontcg.io/xy2/11_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xy2-11"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Stoke",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Flip a coin. If heads, search your deck for up to 3 basic Energy cards and attach them to this Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Fire Blast",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "xy2-12",
+      "name": "Charizard-EX",
+      "set": {
+        "name": "Flashfire",
+        "series": "XY",
+        "releaseDate": "2014/05/07"
+      },
+      "number": "12",
+      "rarity": "Rare Holo EX",
+      "images": {
+        "small": "https://images.pokemontcg.io/xy2/12.png",
+        "large": "https://images.pokemontcg.io/xy2/12_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xy2-12"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": ""
+        },
+        {
+          "name": "Combustion Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "150",
+          "text": "This Pokémon can't use Combustion Blast during your next turn."
+        }
+      ],
+      "rules": [
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "xy2-100",
+      "name": "Charizard-EX",
+      "set": {
+        "name": "Flashfire",
+        "series": "XY",
+        "releaseDate": "2014/05/07"
+      },
+      "number": "100",
+      "rarity": "Rare Ultra",
+      "images": {
+        "small": "https://images.pokemontcg.io/xy2/100.png",
+        "large": "https://images.pokemontcg.io/xy2/100_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xy2-100"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Stoke",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Flip a coin. If heads, search your deck for up to 3 basic Energy cards and attach them to this Pokémon. Shuffle your deck afterward."
+        },
+        {
+          "name": "Fire Blast",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "Discard an Energy attached to this Pokémon."
+        }
+      ],
+      "rules": [
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "g1-11",
+      "name": "Charizard-EX",
+      "set": {
+        "name": "Generations",
+        "series": "XY",
+        "releaseDate": "2016/02/22"
+      },
+      "number": "11",
+      "rarity": "Rare Holo EX",
+      "images": {
+        "small": "https://images.pokemontcg.io/g1/11.png",
+        "large": "https://images.pokemontcg.io/g1/11_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/g1-11"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Flame Cloak",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30",
+          "text": "Attach a Fire Energy card from your discard pile to this Pokémon."
+        },
+        {
+          "name": "Burning Breath",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "80+",
+          "text": "Flip 2 coins. This attack does 40 more damage for each heads."
+        }
+      ],
+      "rules": [
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "xy12-12",
+      "name": "Charizard-EX",
+      "set": {
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016/11/02"
+      },
+      "number": "12",
+      "rarity": "Rare Holo EX",
+      "images": {
+        "small": "https://images.pokemontcg.io/xy12/12.png",
+        "large": "https://images.pokemontcg.io/xy12/12_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xy12-12"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": ""
+        },
+        {
+          "name": "Combustion Blast",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "150",
+          "text": "This Pokémon can't use Combustion Blast during your next turn."
+        }
+      ],
+      "rules": [
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "smp-SM60",
+      "name": "Charizard-GX",
+      "set": {
+        "name": "SM Black Star Promos",
+        "series": "Sun & Moon",
+        "releaseDate": "2017/02/03"
+      },
+      "number": "SM60",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/smp/SM60.png",
+        "large": "https://images.pokemontcg.io/smp/SM60_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/smp-SM60"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": ""
+        },
+        {
+          "name": "Crimson Storm",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "Discard 3 Fire Energy from this Pokémon."
+        },
+        {
+          "name": "Raging Out-GX",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "",
+          "text": "Discard the top 10 cards of your opponent's deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "smp-SM195",
+      "name": "Charizard-GX",
+      "set": {
+        "name": "SM Black Star Promos",
+        "series": "Sun & Moon",
+        "releaseDate": "2017/02/03"
+      },
+      "number": "SM195",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/smp/SM195.png",
+        "large": "https://images.pokemontcg.io/smp/SM195_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/smp-SM195"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Raging Destruction",
+          "cost": [
+            "Fire"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Discard the top 8 cards of your deck. If any of those cards are Fire Energy cards, attach them to this Pokémon."
+        },
+        {
+          "name": "Steam Artillery",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "200",
+          "text": ""
+        },
+        {
+          "name": "Dreadful Flames-GX",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "250",
+          "text": "Discard an Energy from each of your opponent's Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "smp-SM211",
+      "name": "Charizard-GX",
+      "set": {
+        "name": "SM Black Star Promos",
+        "series": "Sun & Moon",
+        "releaseDate": "2017/02/03"
+      },
+      "number": "SM211",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/smp/SM211.png",
+        "large": "https://images.pokemontcg.io/smp/SM211_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/smp-SM211"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "140",
+          "text": ""
+        },
+        {
+          "name": "Flare Blitz-GX",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "300",
+          "text": "(You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "sm3-20",
+      "name": "Charizard-GX",
+      "set": {
+        "name": "Burning Shadows",
+        "series": "Sun & Moon",
+        "releaseDate": "2017/08/05"
+      },
+      "number": "20",
+      "rarity": "Rare Holo GX",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm3/20.png",
+        "large": "https://images.pokemontcg.io/sm3/20_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sm3-20"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": ""
+        },
+        {
+          "name": "Crimson Storm",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "Discard 3 Fire Energy from this Pokémon."
+        },
+        {
+          "name": "Raging Out-GX",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "",
+          "text": "Discard the top 10 cards of your opponent's deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "sm3-150",
+      "name": "Charizard-GX",
+      "set": {
+        "name": "Burning Shadows",
+        "series": "Sun & Moon",
+        "releaseDate": "2017/08/05"
+      },
+      "number": "150",
+      "rarity": "Rare Rainbow",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm3/150.png",
+        "large": "https://images.pokemontcg.io/sm3/150_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sm3-150"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": ""
+        },
+        {
+          "name": "Crimson Storm",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "Discard 3 Fire Energy from this Pokémon."
+        },
+        {
+          "name": "Raging Out-GX",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "",
+          "text": "Discard the top 10 cards of your opponent's deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "sm115-9",
+      "name": "Charizard-GX",
+      "set": {
+        "name": "Hidden Fates",
+        "series": "Sun & Moon",
+        "releaseDate": "2019/08/23"
+      },
+      "number": "9",
+      "rarity": "Rare Holo GX",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm115/9.png",
+        "large": "https://images.pokemontcg.io/sm115/9_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sm115-9"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "140",
+          "text": ""
+        },
+        {
+          "name": "Flare Blitz-GX",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "300",
+          "text": "(You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "sma-SV49",
+      "name": "Charizard-GX",
+      "set": {
+        "name": "Hidden Fates Shiny Vault",
+        "series": "Sun & Moon",
+        "releaseDate": "2019/08/23"
+      },
+      "number": "SV49",
+      "rarity": "Rare Shiny GX",
+      "images": {
+        "small": "https://images.pokemontcg.io/sma/SV49.png",
+        "large": "https://images.pokemontcg.io/sma/SV49_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sma-SV49"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Wing Attack",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": ""
+        },
+        {
+          "name": "Crimson Storm",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "Discard 3 Fire Energy from this Pokémon."
+        },
+        {
+          "name": "Raging Out-GX",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "",
+          "text": "Discard the top 10 cards of your opponent's deck. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "Pokémon-GX rule: When your Pokémon-GX is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "base5-4",
+      "name": "Dark Charizard",
+      "set": {
+        "name": "Team Rocket",
+        "series": "Base",
+        "releaseDate": "2000/04/24"
+      },
+      "number": "4",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/base5/4.png",
+        "large": "https://images.pokemontcg.io/base5/4_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/base5-4"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Nail Flick",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": ""
+        },
+        {
+          "name": "Continuous Fireball",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50×",
+          "text": "Flip a number of coins equal to the number of Fire Energy cards attached to Dark Charizard. This attack does 50 damage times the number of heads. Discard a number of Fire Energy cards attached to Dark Charizard equal to the number of heads."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "base5-21",
+      "name": "Dark Charizard",
+      "set": {
+        "name": "Team Rocket",
+        "series": "Base",
+        "releaseDate": "2000/04/24"
+      },
+      "number": "21",
+      "rarity": "Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/base5/21.png",
+        "large": "https://images.pokemontcg.io/base5/21_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/base5-21"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Nail Flick",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": ""
+        },
+        {
+          "name": "Continuous Fireball",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50×",
+          "text": "Flip a number of coins equal to the number of Fire Energy cards attached to Dark Charizard. This attack does 50 damage times the number of heads. Discard a number of Fire Energy cards attached to Dark Charizard equal to the number of heads."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swshp-SWSH133",
+      "name": "Lance's Charizard V",
+      "set": {
+        "name": "SWSH Black Star Promos",
+        "series": "Sword & Shield",
+        "releaseDate": "2019/11/15"
+      },
+      "number": "SWSH133",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/swshp/SWSH133.png",
+        "large": "https://images.pokemontcg.io/swshp/SWSH133_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH133"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200",
+          "text": "Discard an Energy from this Pokémon."
+        }
+      ],
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "xy2-13",
+      "name": "M Charizard-EX",
+      "set": {
+        "name": "Flashfire",
+        "series": "XY",
+        "releaseDate": "2014/05/07"
+      },
+      "number": "13",
+      "rarity": "Rare Holo EX",
+      "images": {
+        "small": "https://images.pokemontcg.io/xy2/13.png",
+        "large": "https://images.pokemontcg.io/xy2/13_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xy2-13"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Crimson Dive",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "This Pokémon does 50 damage to itself."
+        }
+      ],
+      "rules": [
+        "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "xy2-69",
+      "name": "M Charizard-EX",
+      "set": {
+        "name": "Flashfire",
+        "series": "XY",
+        "releaseDate": "2014/05/07"
+      },
+      "number": "69",
+      "rarity": "Rare Holo EX",
+      "images": {
+        "small": "https://images.pokemontcg.io/xy2/69.png",
+        "large": "https://images.pokemontcg.io/xy2/69_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xy2-69"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Wild Blaze",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "Discard the top 5 cards of your deck."
+        }
+      ],
+      "rules": [
+        "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "xy2-107",
+      "name": "M Charizard-EX",
+      "set": {
+        "name": "Flashfire",
+        "series": "XY",
+        "releaseDate": "2014/05/07"
+      },
+      "number": "107",
+      "rarity": "Rare Secret",
+      "images": {
+        "small": "https://images.pokemontcg.io/xy2/107.png",
+        "large": "https://images.pokemontcg.io/xy2/107_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xy2-107"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Crimson Dive",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "This Pokémon does 50 damage to itself."
+        }
+      ],
+      "rules": [
+        "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "xy2-108",
+      "name": "M Charizard-EX",
+      "set": {
+        "name": "Flashfire",
+        "series": "XY",
+        "releaseDate": "2014/05/07"
+      },
+      "number": "108",
+      "rarity": "Rare Secret",
+      "images": {
+        "small": "https://images.pokemontcg.io/xy2/108.png",
+        "large": "https://images.pokemontcg.io/xy2/108_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xy2-108"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Wild Blaze",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Darkness",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "Discard the top 5 cards of your deck."
+        }
+      ],
+      "rules": [
+        "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "g1-12",
+      "name": "M Charizard-EX",
+      "set": {
+        "name": "Generations",
+        "series": "XY",
+        "releaseDate": "2016/02/22"
+      },
+      "number": "12",
+      "rarity": "Rare Holo EX",
+      "images": {
+        "small": "https://images.pokemontcg.io/g1/12.png",
+        "large": "https://images.pokemontcg.io/g1/12_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/g1-12"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Heat Typhoon",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "100+",
+          "text": "Flip a coin for each Fire Energy attached to this Pokémon. This attack does 50 more damage for each heads."
+        }
+      ],
+      "rules": [
+        "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "xy12-13",
+      "name": "M Charizard-EX",
+      "set": {
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016/11/02"
+      },
+      "number": "13",
+      "rarity": "Rare Holo EX",
+      "images": {
+        "small": "https://images.pokemontcg.io/xy12/13.png",
+        "large": "https://images.pokemontcg.io/xy12/13_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xy12-13"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Crimson Dive",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "This Pokémon does 50 damage to itself."
+        }
+      ],
+      "rules": [
+        "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "xy12-101",
+      "name": "M Charizard-EX",
+      "set": {
+        "name": "Evolutions",
+        "series": "XY",
+        "releaseDate": "2016/11/02"
+      },
+      "number": "101",
+      "rarity": "Rare Ultra",
+      "images": {
+        "small": "https://images.pokemontcg.io/xy12/101.png",
+        "large": "https://images.pokemontcg.io/xy12/101_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xy12-101"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Crimson Dive",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "300",
+          "text": "This Pokémon does 50 damage to itself."
+        }
+      ],
+      "rules": [
+        "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "me2-13",
+      "name": "Mega Charizard X ex",
+      "set": {
+        "name": "Phantasmal Flames",
+        "series": "Mega Evolution",
+        "releaseDate": "2025/11/14"
+      },
+      "number": "13",
+      "rarity": "Double Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/me2/13.png",
+        "large": "https://images.pokemontcg.io/me2/13_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/me2-13"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Inferno X",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "90×",
+          "text": "Discard any amount of Fire Energy from among your Pokémon, and this attack does 90 damage for each card you discarded in this way."
+        }
+      ],
+      "rules": [
+        "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "me2-109",
+      "name": "Mega Charizard X ex",
+      "set": {
+        "name": "Phantasmal Flames",
+        "series": "Mega Evolution",
+        "releaseDate": "2025/11/14"
+      },
+      "number": "109",
+      "rarity": "Ultra Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/me2/109.png",
+        "large": "https://images.pokemontcg.io/me2/109_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/me2-109"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Inferno X",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "90×",
+          "text": "Discard any amount of Fire Energy from among your Pokémon, and this attack does 90 damage for each card you discarded in this way."
+        }
+      ],
+      "rules": [
+        "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "me2-125",
+      "name": "Mega Charizard X ex",
+      "set": {
+        "name": "Phantasmal Flames",
+        "series": "Mega Evolution",
+        "releaseDate": "2025/11/14"
+      },
+      "number": "125",
+      "rarity": "Special Illustration Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/me2/125.png",
+        "large": "https://images.pokemontcg.io/me2/125_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/me2-125"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Inferno X",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "90×",
+          "text": "Discard any amount of Fire Energy from among your Pokémon, and this attack does 90 damage for each card you discarded in this way."
+        }
+      ],
+      "rules": [
+        "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "me2-130",
+      "name": "Mega Charizard X ex",
+      "set": {
+        "name": "Phantasmal Flames",
+        "series": "Mega Evolution",
+        "releaseDate": "2025/11/14"
+      },
+      "number": "130",
+      "rarity": "Mega Hyper Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/me2/130.png",
+        "large": "https://images.pokemontcg.io/me2/130_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/me2-130"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Inferno X",
+          "cost": [
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "90×",
+          "text": "Discard any amount of Fire Energy from among your Pokémon, and this attack does 90 damage for each card you discarded in this way."
+        }
+      ],
+      "rules": [
+        "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "me2pt5-22",
+      "name": "Mega Charizard Y ex",
+      "set": {
+        "name": "Ascended Heroes",
+        "series": "Mega Evolution",
+        "releaseDate": "2026/01/30"
+      },
+      "number": "22",
+      "rarity": "Double Rare",
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2pt5-22/small",
+        "large": "https://images.scrydex.com/pokemon/me2pt5-22/large"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/me2pt5-22"
+      },
+      "legalities": {
+        "standard": "Not Legal",
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Explosion Y",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "",
+          "text": "Discard 3 Energy from this Pokémon, and this attack does 280 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+        "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "me2pt5-294",
+      "name": "Mega Charizard Y ex",
+      "set": {
+        "name": "Ascended Heroes",
+        "series": "Mega Evolution",
+        "releaseDate": "2026/01/30"
+      },
+      "number": "294",
+      "rarity": "Mega Hyper Rare",
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2pt5-294/small",
+        "large": "https://images.scrydex.com/pokemon/me2pt5-294/large"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/me2pt5-294"
+      },
+      "legalities": {
+        "standard": "Not Legal",
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Explosion Y",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "",
+          "text": "Discard 3 Energy from this Pokémon, and this attack does 280 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+        "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "pgo-11",
+      "name": "Radiant Charizard",
+      "set": {
+        "name": "Pokémon GO",
+        "series": "Sword & Shield",
+        "releaseDate": "2022/07/01"
+      },
+      "number": "11",
+      "rarity": "Radiant Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/pgo/11.png",
+        "large": "https://images.pokemontcg.io/pgo/11_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pgo-11"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Excited Heart",
+          "text": "This Pokémon's attacks cost Colorless less for each Prize card your opponent has taken.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Combustion Blast",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "250",
+          "text": "During your next turn, this Pokémon can't use Combustion Blast."
+        }
+      ],
+      "rules": [
+        "Radiant Pokémon Rule: You can't have more than 1 Radiant Pokémon in your deck."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swsh12pt5-20",
+      "name": "Radiant Charizard",
+      "set": {
+        "name": "Crown Zenith",
+        "series": "Sword & Shield",
+        "releaseDate": "2023/01/20"
+      },
+      "number": "20",
+      "rarity": "Radiant Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh12pt5/20.png",
+        "large": "https://images.pokemontcg.io/swsh12pt5/20_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh12pt5-20"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Excited Heart",
+          "text": "This Pokémon's attacks cost Colorless less for each Prize card your opponent has taken.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Combustion Blast",
+          "cost": [
+            "Fire",
+            "Colorless",
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "250",
+          "text": "During your next turn, this Pokémon can't use Combustion Blast."
+        }
+      ],
+      "rules": [
+        "Radiant Pokémon Rule: You can't have more than 1 Radiant Pokémon in your deck."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "smp-SM201",
+      "name": "Reshiram & Charizard-GX",
+      "set": {
+        "name": "SM Black Star Promos",
+        "series": "Sun & Moon",
+        "releaseDate": "2017/02/03"
+      },
+      "number": "SM201",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/smp/SM201.png",
+        "large": "https://images.pokemontcg.io/smp/SM201_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/smp-SM201"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Outrage",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "This attack does 10 more damage for each damage counter on this Pokémon."
+        },
+        {
+          "name": "Flare Strike",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "230",
+          "text": "This Pokémon can't use Flare Strike during your next turn."
+        },
+        {
+          "name": "Double Blaze-GX",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200+",
+          "text": "If this Pokémon has at least 3 extra Fire Energy attached to it (in addition to this attack's cost), this attack does 100 more damage, and this attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6,
+        643
+      ]
+    },
+    {
+      "id": "smp-SM247",
+      "name": "Reshiram & Charizard-GX",
+      "set": {
+        "name": "SM Black Star Promos",
+        "series": "Sun & Moon",
+        "releaseDate": "2017/02/03"
+      },
+      "number": "SM247",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/smp/SM247.png",
+        "large": "https://images.pokemontcg.io/smp/SM247_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/smp-SM247"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Outrage",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "This attack does 10 more damage for each damage counter on this Pokémon."
+        },
+        {
+          "name": "Flare Strike",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "230",
+          "text": "This Pokémon can't use Flare Strike during your next turn."
+        },
+        {
+          "name": "Double Blaze-GX",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200+",
+          "text": "If this Pokémon has at least 3 extra Fire Energy attached to it (in addition to this attack's cost), this attack does 100 more damage, and this attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6,
+        643
+      ]
+    },
+    {
+      "id": "sm10-20",
+      "name": "Reshiram & Charizard-GX",
+      "set": {
+        "name": "Unbroken Bonds",
+        "series": "Sun & Moon",
+        "releaseDate": "2019/05/03"
+      },
+      "number": "20",
+      "rarity": "Rare Holo GX",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm10/20.png",
+        "large": "https://images.pokemontcg.io/sm10/20_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sm10-20"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Outrage",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "This attack does 10 more damage for each damage counter on this Pokémon."
+        },
+        {
+          "name": "Flare Strike",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "230",
+          "text": "This Pokémon can't use Flare Strike during your next turn."
+        },
+        {
+          "name": "Double Blaze-GX",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200+",
+          "text": "If this Pokémon has at least 3 extra Fire Energy attached to it (in addition to this attack's cost), this attack does 100 more damage, and this attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6,
+        643
+      ]
+    },
+    {
+      "id": "sm10-194",
+      "name": "Reshiram & Charizard-GX",
+      "set": {
+        "name": "Unbroken Bonds",
+        "series": "Sun & Moon",
+        "releaseDate": "2019/05/03"
+      },
+      "number": "194",
+      "rarity": "Rare Ultra",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm10/194.png",
+        "large": "https://images.pokemontcg.io/sm10/194_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sm10-194"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Outrage",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "This attack does 10 more damage for each damage counter on this Pokémon."
+        },
+        {
+          "name": "Flare Strike",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "230",
+          "text": "This Pokémon can't use Flare Strike during your next turn."
+        },
+        {
+          "name": "Double Blaze-GX",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200+",
+          "text": "If this Pokémon has at least 3 extra Fire Energy attached to it (in addition to this attack's cost), this attack does 100 more damage, and this attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6,
+        643
+      ]
+    },
+    {
+      "id": "sm10-217",
+      "name": "Reshiram & Charizard-GX",
+      "set": {
+        "name": "Unbroken Bonds",
+        "series": "Sun & Moon",
+        "releaseDate": "2019/05/03"
+      },
+      "number": "217",
+      "rarity": "Rare Rainbow",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm10/217.png",
+        "large": "https://images.pokemontcg.io/sm10/217_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sm10-217"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Outrage",
+          "cost": [
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30+",
+          "text": "This attack does 10 more damage for each damage counter on this Pokémon."
+        },
+        {
+          "name": "Flare Strike",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "230",
+          "text": "This Pokémon can't use Flare Strike during your next turn."
+        },
+        {
+          "name": "Double Blaze-GX",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "200+",
+          "text": "If this Pokémon has at least 3 extra Fire Energy attached to it (in addition to this attack's cost), this attack does 100 more damage, and this attack's damage isn't affected by any effects on your opponent's Active Pokémon. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        6,
+        643
+      ]
+    },
+    {
+      "id": "neo4-107",
+      "name": "Shining Charizard",
+      "set": {
+        "name": "Neo Destiny",
+        "series": "Neo",
+        "releaseDate": "2002/02/28"
+      },
+      "number": "107",
+      "rarity": "Rare Shining",
+      "images": {
+        "small": "https://images.pokemontcg.io/neo4/107.png",
+        "large": "https://images.pokemontcg.io/neo4/107_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/neo4-107"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "White-hot Flame",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Fire",
+            "Lightning",
+            "Lightning"
+          ],
+          "convertedEnergyCost": 5,
+          "damage": "100",
+          "text": "Discard 1 Fire Energy card and 1 Lightning Energy card attached to Shining Charizard or this attack does nothing. Flip a coin. If tails, Shining Charizard does 30 damage to itself."
+        }
+      ],
+      "rules": [
+        "You can't have more than 1 Shining Charizard in your deck."
+      ],
+      "nationalPokedexNumbers": [
+        6
+      ]
+    },
+    {
+      "id": "swshp-SWSH075",
+      "name": "Special Delivery Charizard",
+      "set": {
+        "name": "SWSH Black Star Promos",
+        "series": "Sword & Shield",
+        "releaseDate": "2019/11/15"
+      },
+      "number": "SWSH075",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/swshp/SWSH075.png",
+        "large": "https://images.pokemontcg.io/swshp/SWSH075_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH075"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Happy Delivery",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Search your deck for up to 2 Item cards, reveal them, and put them into your hand. Then, shuffle your deck."
+        },
+        {
+          "name": "Flamethrower",
+          "cost": [
+            "Fire",
+            "Fire",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "160",
+          "text": "Discard an Energy from this Pokémon."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        6
+      ]
+    }
+  ]
+}

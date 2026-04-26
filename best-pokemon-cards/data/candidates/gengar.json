@@ -1,0 +1,2404 @@
+{
+  "pokemonName": "Gengar",
+  "slug": "gengar",
+  "fetchedAt": "2026-04-26T05:16:34.900Z",
+  "query": "supertype:\"Pokémon\" AND name:\"*Gengar*\"",
+  "totalCount": 50,
+  "cards": [
+    {
+      "id": "neo4-6",
+      "name": "Dark Gengar",
+      "set": {
+        "name": "Neo Destiny",
+        "series": "Neo",
+        "releaseDate": "2002/02/28"
+      },
+      "number": "6",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/neo4/6.png",
+        "large": "https://images.pokemontcg.io/neo4/6_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/neo4-6"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Deep Sleep",
+          "text": "As long as any Dark Gengar are in play, a player flips 2 coins for each of his or her Pokémon that is Asleep at the end of each turn. If either of them is tails, that Pokémon is still Asleep. This power stops working if Dark Gengar is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Pull In",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "If your opponent has any Benched Pokémon, you may choose 1 of them and switch it with the Defending Pokémon (before doing damage or other effects of this attack). Either way, the Defending Pokémon is now Asleep."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "base3-5",
+      "name": "Gengar",
+      "set": {
+        "name": "Fossil",
+        "series": "Base",
+        "releaseDate": "1999/10/10"
+      },
+      "number": "5",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/base3/5.png",
+        "large": "https://images.pokemontcg.io/base3/5_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/base3-5"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Curse",
+          "text": "Once during your turn (before your attack), you may move 1 damage counter from 1 of your opponent's Pokémon to another (even if it would Knock Out the other Pokémon). This power can't be used if Gengar is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dark Mind",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "base3-20",
+      "name": "Gengar",
+      "set": {
+        "name": "Fossil",
+        "series": "Base",
+        "releaseDate": "1999/10/10"
+      },
+      "number": "20",
+      "rarity": "Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/base3/20.png",
+        "large": "https://images.pokemontcg.io/base3/20_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/base3-20"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Curse",
+          "text": "Once during your turn (before your attack), you may move 1 damage counter from 1 of your opponent's Pokémon to another (even if it would Knock Out the other Pokémon). This power can't be used if Gengar is Asleep, Confused, or Paralyzed.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dark Mind",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "base6-11",
+      "name": "Gengar",
+      "set": {
+        "name": "Legendary Collection",
+        "series": "Other",
+        "releaseDate": "2002/05/24"
+      },
+      "number": "11",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/base6/11.png",
+        "large": "https://images.pokemontcg.io/base6/11_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/base6-11"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Curse",
+          "text": "Once during your turn (before your attack), you may move 1 damage counter from 1 of your opponent's Pokémon to another (even if it would Knock Out the other Pokémon). This power can't be used if Gengar is affected by a Special Condition.",
+          "type": "Pokémon Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Dark Mind",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "30",
+          "text": "If your opponent has any Benched Pokémon, choose 1 of them and this attack does 10 damage to it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "ecard1-13",
+      "name": "Gengar",
+      "set": {
+        "name": "Expedition Base Set",
+        "series": "E-Card",
+        "releaseDate": "2002/09/15"
+      },
+      "number": "13",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/ecard1/13.png",
+        "large": "https://images.pokemontcg.io/ecard1/13_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/ecard1-13"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Chaos Move",
+          "text": "Once during your turn (before your attack), if your opponent has 3 or fewer Prizes, you may move 1 damage counter from 1 Pokémon (yours or your opponent's) to another (even if it would Knock Out the other Pokémon). This power can't be used if Gengar is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hide in Shadows",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Switch Gengar with 1 of your Benched Pokémon, if any."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "ecard1-48",
+      "name": "Gengar",
+      "set": {
+        "name": "Expedition Base Set",
+        "series": "E-Card",
+        "releaseDate": "2002/09/15"
+      },
+      "number": "48",
+      "rarity": "Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/ecard1/48.png",
+        "large": "https://images.pokemontcg.io/ecard1/48_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/ecard1-48"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Chaos Move",
+          "text": "Once during your turn (before your attack), if your opponent has 3 or fewer Prizes, you may move 1 damage counter from 1 Pokémon (yours or your opponent's) to another (even if it would Knock Out the other Pokémon). This power can't be used if Gengar is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hide in Shadows",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Switch Gengar with 1 of your Benched Pokémon, if any."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "ecard3-10",
+      "name": "Gengar",
+      "set": {
+        "name": "Skyridge",
+        "series": "E-Card",
+        "releaseDate": "2003/05/12"
+      },
+      "number": "10",
+      "rarity": "Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/ecard3/10.png",
+        "large": "https://images.pokemontcg.io/ecard3/10_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/ecard3-10"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Manipulate",
+          "text": "When you play Gengar from your hand to evolve your Active Pokémon, you may put a Basic Pokémon (excluding Baby Pokémon) from your discard pile onto your Bench. Then, flip 3 coins. For each heads, choose a basic Energy card from your discard pile and attach it to that Pokémon.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hydrokinesis",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "40",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Burned. If tails, the Defending Pokémon is now Confused."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "ecard3-H9",
+      "name": "Gengar",
+      "set": {
+        "name": "Skyridge",
+        "series": "E-Card",
+        "releaseDate": "2003/05/12"
+      },
+      "number": "H9",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/ecard3/H9.png",
+        "large": "https://images.pokemontcg.io/ecard3/H9_hires.png"
+      },
+      "tcgplayer": {
+        "url": null
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Manipulate",
+          "text": "When you play Gengar from your hand to evolve your Active Pokémon, you may put a Basic Pokémon (excluding Baby Pokémon) from your discard pile onto your Bench. Then, flip 3 coins. For each heads, choose a basic Energy card from your discard pile and attach it to that Pokémon.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hydrokinesis",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "40",
+          "text": "Flip a coin. If heads, the Defending Pokémon is now Burned. If tails, the Defending Pokémon is now Confused."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "ex12-5",
+      "name": "Gengar",
+      "set": {
+        "name": "Legend Maker",
+        "series": "EX",
+        "releaseDate": "2006/02/01"
+      },
+      "number": "5",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/ex12/5.png",
+        "large": "https://images.pokemontcg.io/ex12/5_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/ex12-5"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Shadow Curse",
+          "text": "If Gengar would be Knocked Out by damage from an opponent's attack, you may put 3 damage counters on 1 of your opponent's Pokémon.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Cursed Reaction",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Put 2 damage counters on your opponent's Pokémon in any way you like. If Gengar has any React Energy cards attached to it, put 4 damage counters instead."
+        },
+        {
+          "name": "Super Psy Bolt",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": ""
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "dp1-27",
+      "name": "Gengar",
+      "set": {
+        "name": "Diamond & Pearl",
+        "series": "Diamond & Pearl",
+        "releaseDate": "2007/05/01"
+      },
+      "number": "27",
+      "rarity": "Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/dp1/27.png",
+        "large": "https://images.pokemontcg.io/dp1/27_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/dp1-27"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Life Drain",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Flip a coin. If heads, put damage counter on the Defending Pokémon until it is 10 HP away from being Knocked Out."
+        },
+        {
+          "name": "Shadow Dance",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "",
+          "text": "Put 4 damage counters on your opponent's Pokémon in any way you like. Then, switch Gengar with 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "dp7-18",
+      "name": "Gengar",
+      "set": {
+        "name": "Stormfront",
+        "series": "Diamond & Pearl",
+        "releaseDate": "2008/11/01"
+      },
+      "number": "18",
+      "rarity": "Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/dp7/18.png",
+        "large": "https://images.pokemontcg.io/dp7/18_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/dp7-18"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Fainting Spell",
+          "text": "Once during your opponent's turn, if Gengar would be Knocked Out by damage from an attack, you may flip a coin. If heads, the Defending Pokémon is Knocked Out.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Shadow Room",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Put 3 damage counters on 1 of your opponent's Pokémon. If that Pokémon has any Poké-Powers, put 6 damage counters on that Pokémon instead."
+        },
+        {
+          "name": "Poltergeist",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "30×",
+          "text": "Look at your opponent's hand. This attack does 30 damage times the number of Trainer, Supporter, and Stadium cards in your opponent's hand."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "pl4-16",
+      "name": "Gengar",
+      "set": {
+        "name": "Arceus",
+        "series": "Platinum",
+        "releaseDate": "2009/11/04"
+      },
+      "number": "16",
+      "rarity": "Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/pl4/16.png",
+        "large": "https://images.pokemontcg.io/pl4/16_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pl4-16"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Curse",
+          "text": "Once during your turn (before your attack), you may move 1 damage counter from 1 of your opponent's Pokémon to another of your opponent's Pokémon. This power can't be used if Gengar is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Shadow Skip",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Does 10 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.) You may switch Gengar with 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "pl4-17",
+      "name": "Gengar",
+      "set": {
+        "name": "Arceus",
+        "series": "Platinum",
+        "releaseDate": "2009/11/04"
+      },
+      "number": "17",
+      "rarity": "Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/pl4/17.png",
+        "large": "https://images.pokemontcg.io/pl4/17_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pl4-17"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Sharpshooting",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "",
+          "text": "Choose 1 of your opponent's Pokémon. This attack does 40 damage to that Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        },
+        {
+          "name": "Poison Jab",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "The Defending Pokémon is now Poisoned."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "hgss4-94",
+      "name": "Gengar",
+      "set": {
+        "name": "HS—Triumphant",
+        "series": "HeartGold & SoulSilver",
+        "releaseDate": "2010/11/03"
+      },
+      "number": "94",
+      "rarity": "Rare Prime",
+      "images": {
+        "small": "https://images.pokemontcg.io/hgss4/94.png",
+        "large": "https://images.pokemontcg.io/hgss4/94_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/hgss4-94"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Catastrophe",
+          "text": "As long as Gengar is your Active Pokémon, if any of your opponent's Pokémon would be Knocked Out, put that Pokémon in the Lost Zone instead of discarding. (Discard all cards attached to that Pokémon.)",
+          "type": "Poké-Body"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hurl into Darkness",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Look at your opponent's hand and choose a number of Pokémon you find there up to the number of Psychic Energy attached to Gengar. Put the Pokémon you chose in the Lost Zone."
+        },
+        {
+          "name": "Cursed Drop",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "",
+          "text": "Put 4 damage counters on your opponent's Pokémon in any way you like."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "xy8-60",
+      "name": "Gengar",
+      "set": {
+        "name": "BREAKthrough",
+        "series": "XY",
+        "releaseDate": "2015/11/04"
+      },
+      "number": "60",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/xy8/60.png",
+        "large": "https://images.pokemontcg.io/xy8/60_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xy8-60"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Sinister Fog",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Your opponent's Active Pokémon is now Poisoned. Put 1 damage counter on each of your opponent's Benched Pokémon."
+        },
+        {
+          "name": "Creep Show",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "",
+          "text": "If your opponent's Active Pokémon has 3 or more damage counters on it, that Pokémon is Knocked Out."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "g1-35",
+      "name": "Gengar",
+      "set": {
+        "name": "Generations",
+        "series": "XY",
+        "releaseDate": "2016/02/22"
+      },
+      "number": "35",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/g1/35.png",
+        "large": "https://images.pokemontcg.io/g1/35_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/g1-35"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Sinister Fog",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Your opponent's Active Pokémon is now Poisoned. Put 1 damage counter on each of your opponent's Benched Pokémon."
+        },
+        {
+          "name": "Creep Show",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "",
+          "text": "If your opponent's Active Pokémon has 3 or more damage counters on it, that Pokémon is Knocked Out."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "sm4-38",
+      "name": "Gengar",
+      "set": {
+        "name": "Crimson Invasion",
+        "series": "Sun & Moon",
+        "releaseDate": "2017/11/03"
+      },
+      "number": "38",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm4/38.png",
+        "large": "https://images.pokemontcg.io/sm4/38_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sm4-38"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Gnawing Curse",
+          "text": "Whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Fade to Black",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "Your opponent's Active Pokémon is now Confused."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "sm10-70",
+      "name": "Gengar",
+      "set": {
+        "name": "Unbroken Bonds",
+        "series": "Sun & Moon",
+        "releaseDate": "2019/05/03"
+      },
+      "number": "70",
+      "rarity": "Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm10/70.png",
+        "large": "https://images.pokemontcg.io/sm10/70_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sm10-70"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Shadow Pain",
+          "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may put 6 damage counters on your opponent's Pokémon-GX and Pokémon-EX in any way you like.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Twilight Poison",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "70",
+          "text": "Your opponent's Active Pokémon is now Asleep and Poisoned."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "swshp-SWSH052",
+      "name": "Gengar",
+      "set": {
+        "name": "SWSH Black Star Promos",
+        "series": "Sword & Shield",
+        "releaseDate": "2019/11/15"
+      },
+      "number": "SWSH052",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/swshp/SWSH052.png",
+        "large": "https://images.pokemontcg.io/swshp/SWSH052_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH052"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Life Shaker",
+          "text": "As often as you like during your turn, you may move 1 damage counter from 1 of your Psychic Pokémon to another of your Psychic Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hypnoblast",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "swshp-SWSH241",
+      "name": "Gengar",
+      "set": {
+        "name": "SWSH Black Star Promos",
+        "series": "Sword & Shield",
+        "releaseDate": "2019/11/15"
+      },
+      "number": "SWSH241",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/swshp/SWSH241.png",
+        "large": "https://images.pokemontcg.io/swshp/SWSH241_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swshp-SWSH241"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Netherworld Gate",
+          "text": "Once during your turn, if this Pokémon is in your discard pile, you may put it onto your Bench. If you do, put 3 damage counters on this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Screaming Circle",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Put 2 damage counters on your opponent's Active Pokémon for each of your opponent's Benched Pokémon."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "swsh1-85",
+      "name": "Gengar",
+      "set": {
+        "name": "Sword & Shield",
+        "series": "Sword & Shield",
+        "releaseDate": "2020/02/07"
+      },
+      "number": "85",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh1/85.png",
+        "large": "https://images.pokemontcg.io/swsh1/85_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh1-85"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Life Shaker",
+          "text": "As often as you like during your turn, you may move 1 damage counter from 1 of your Psychic Pokémon to another of your Psychic Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Hypnoblast",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "90",
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "swsh6-57",
+      "name": "Gengar",
+      "set": {
+        "name": "Chilling Reign",
+        "series": "Sword & Shield",
+        "releaseDate": "2021/06/18"
+      },
+      "number": "57",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh6/57.png",
+        "large": "https://images.pokemontcg.io/swsh6/57_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh6-57"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Last Gift",
+          "text": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, search your deck for up to 2 cards and put them into your hand. Then, shuffle your deck.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Pain Burst",
+          "cost": [
+            "Colorless",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "10+",
+          "text": "This attack does 40 more damage for each damage counter on your opponent's Active Pokémon."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "swsh11tg-TG06",
+      "name": "Gengar",
+      "set": {
+        "name": "Lost Origin Trainer Gallery",
+        "series": "Sword & Shield",
+        "releaseDate": "2022/09/09"
+      },
+      "number": "TG06",
+      "rarity": "Trainer Gallery Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh11tg/TG06.png",
+        "large": "https://images.pokemontcg.io/swsh11tg/TG06_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh11tg-TG06"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Netherworld Gate",
+          "text": "Once during your turn, if this Pokémon is in your discard pile, you may put it onto your Bench. If you do, put 3 damage counters on this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Screaming Circle",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Put 2 damage counters on your opponent's Active Pokémon for each of your opponent's Benched Pokémon."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "swsh11-66",
+      "name": "Gengar",
+      "set": {
+        "name": "Lost Origin",
+        "series": "Sword & Shield",
+        "releaseDate": "2022/09/09"
+      },
+      "number": "66",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh11/66.png",
+        "large": "https://images.pokemontcg.io/swsh11/66_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh11-66"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Netherworld Gate",
+          "text": "Once during your turn, if this Pokémon is in your discard pile, you may put it onto your Bench. If you do, put 3 damage counters on this Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Screaming Circle",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Put 2 damage counters on your opponent's Active Pokémon for each of your opponent's Benched Pokémon."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "sv3pt5-94",
+      "name": "Gengar",
+      "set": {
+        "name": "151",
+        "series": "Scarlet & Violet",
+        "releaseDate": "2023/09/22"
+      },
+      "number": "94",
+      "rarity": "Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/sv3pt5/94.png",
+        "large": "https://images.pokemontcg.io/sv3pt5/94_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sv3pt5-94"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Poltergeist",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "50×",
+          "text": "Your opponent reveals their hand. This attack does 50 damage for each Trainer card you find there."
+        },
+        {
+          "name": "Hollow Dive",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "110",
+          "text": "Put 3 damage counters on your opponent's Benched Pokémon in any way you like."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "sv4pt5-57",
+      "name": "Gengar",
+      "set": {
+        "name": "Paldean Fates",
+        "series": "Scarlet & Violet",
+        "releaseDate": "2024/01/26"
+      },
+      "number": "57",
+      "rarity": "Uncommon",
+      "images": {
+        "small": "https://images.pokemontcg.io/sv4pt5/57.png",
+        "large": "https://images.pokemontcg.io/sv4pt5/57_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sv4pt5-57"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Night Gate",
+          "text": "Once during your turn, you may switch your Active Pokémon with 1 of your Benched Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Nightmare",
+          "cost": [
+            "Darkness",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "100",
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "me3-50",
+      "name": "Gengar",
+      "set": {
+        "name": "Perfect Order",
+        "series": "Mega Evolution",
+        "releaseDate": "2026/03/27"
+      },
+      "number": "50",
+      "rarity": "Rare",
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me3-50/small",
+        "large": "https://images.scrydex.com/pokemon/me3-50/large"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/me3-50"
+      },
+      "legalities": {
+        "standard": "Not Legal",
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Infinite Shadow",
+          "text": "If this Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon, put it into your hand instead of the discard pile. (Discard all attached cards.)",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Mind Jack",
+          "cost": [
+            "Darkness"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10+",
+          "text": "This attack does 30 more damage for each of your opponent's Benched Pokémon."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "sm9-53",
+      "name": "Gengar & Mimikyu-GX",
+      "set": {
+        "name": "Team Up",
+        "series": "Sun & Moon",
+        "releaseDate": "2019/02/01"
+      },
+      "number": "53",
+      "rarity": "Rare Holo GX",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm9/53.png",
+        "large": "https://images.pokemontcg.io/sm9/53_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sm9-53"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Poltergeist",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50×",
+          "text": "Your opponent reveals their hand. This attack does 50 damage for each Trainer card you find there."
+        },
+        {
+          "name": "Horror House-GX",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Your opponent can't play any cards from their hand during their next turn. If this Pokémon has at least 1 extra Psychic Energy attached to it (in addition to this attack's cost), each player draws cards until they have 7 cards in their hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94,
+        778
+      ]
+    },
+    {
+      "id": "sm9-164",
+      "name": "Gengar & Mimikyu-GX",
+      "set": {
+        "name": "Team Up",
+        "series": "Sun & Moon",
+        "releaseDate": "2019/02/01"
+      },
+      "number": "164",
+      "rarity": "Rare Ultra",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm9/164.png",
+        "large": "https://images.pokemontcg.io/sm9/164_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sm9-164"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Poltergeist",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50×",
+          "text": "Your opponent reveals their hand. This attack does 50 damage for each Trainer card you find there."
+        },
+        {
+          "name": "Horror House-GX",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Your opponent can't play any cards from their hand during their next turn. If this Pokémon has at least 1 extra Psychic Energy attached to it (in addition to this attack's cost), each player draws cards until they have 7 cards in their hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94,
+        778
+      ]
+    },
+    {
+      "id": "sm9-165",
+      "name": "Gengar & Mimikyu-GX",
+      "set": {
+        "name": "Team Up",
+        "series": "Sun & Moon",
+        "releaseDate": "2019/02/01"
+      },
+      "number": "165",
+      "rarity": "Rare Ultra",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm9/165.png",
+        "large": "https://images.pokemontcg.io/sm9/165_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sm9-165"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Poltergeist",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50×",
+          "text": "Your opponent reveals their hand. This attack does 50 damage for each Trainer card you find there."
+        },
+        {
+          "name": "Horror House-GX",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Your opponent can't play any cards from their hand during their next turn. If this Pokémon has at least 1 extra Psychic Energy attached to it (in addition to this attack's cost), each player draws cards until they have 7 cards in their hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94,
+        778
+      ]
+    },
+    {
+      "id": "sm9-186",
+      "name": "Gengar & Mimikyu-GX",
+      "set": {
+        "name": "Team Up",
+        "series": "Sun & Moon",
+        "releaseDate": "2019/02/01"
+      },
+      "number": "186",
+      "rarity": "Rare Rainbow",
+      "images": {
+        "small": "https://images.pokemontcg.io/sm9/186.png",
+        "large": "https://images.pokemontcg.io/sm9/186_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sm9-186"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Poltergeist",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "50×",
+          "text": "Your opponent reveals their hand. This attack does 50 damage for each Trainer card you find there."
+        },
+        {
+          "name": "Horror House-GX",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Your opponent can't play any cards from their hand during their next turn. If this Pokémon has at least 1 extra Psychic Energy attached to it (in addition to this attack's cost), each player draws cards until they have 7 cards in their hand. (You can't use more than 1 GX attack in a game.)"
+        }
+      ],
+      "rules": [
+        "TAG TEAM rule: When your TAG TEAM is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94,
+        778
+      ]
+    },
+    {
+      "id": "pl2-40",
+      "name": "Gengar GL",
+      "set": {
+        "name": "Rising Rivals",
+        "series": "Platinum",
+        "releaseDate": "2009/05/16"
+      },
+      "number": "40",
+      "rarity": "Uncommon",
+      "images": {
+        "small": "https://images.pokemontcg.io/pl2/40.png",
+        "large": "https://images.pokemontcg.io/pl2/40_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pl2-40"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Confuse Ray",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "10",
+          "text": "The Defending Pokémon is now Confused."
+        },
+        {
+          "name": "Attack and Hide",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "",
+          "text": "Put 3 damage counters on 1 of your opponent's Pokémon. You may shuffle Gengar GL and all cards attached to it back into your deck."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "pl4-97",
+      "name": "Gengar LV.X",
+      "set": {
+        "name": "Arceus",
+        "series": "Platinum",
+        "releaseDate": "2009/11/04"
+      },
+      "number": "97",
+      "rarity": "Rare Holo LV.X",
+      "images": {
+        "small": "https://images.pokemontcg.io/pl4/97.png",
+        "large": "https://images.pokemontcg.io/pl4/97_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/pl4-97"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Level-Down",
+          "text": "Once during your turn (before your attack), you may choose 1 of your opponent's Pokémon LV.X. Remove the Level-Up card from that Pokémon and have your opponent shuffle that card into his or her deck. The power can't be used if Gengar is affected by a Special Condition.",
+          "type": "Poké-Power"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Compound Pain",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "",
+          "text": "This attack does 30 damage to each of your opponent's Pokémon that already has any damage counters on it. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+        }
+      ],
+      "rules": [
+        "Put this card onto your Active Gengar. Gengar LV.X can use any attack, Poké-Power, or Poké-Body from its previous level."
+      ],
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "swsh8-156",
+      "name": "Gengar V",
+      "set": {
+        "name": "Fusion Strike",
+        "series": "Sword & Shield",
+        "releaseDate": "2021/11/12"
+      },
+      "number": "156",
+      "rarity": "Rare Holo V",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh8/156.png",
+        "large": "https://images.pokemontcg.io/swsh8/156_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh8-156"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Dark Slumber",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40",
+          "text": "Your opponent's Active Pokémon is now Asleep."
+        },
+        {
+          "name": "Pain Explosion",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Darkness"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "190",
+          "text": "Put 3 damage counters on this Pokémon."
+        }
+      ],
+      "rules": [
+        "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "swsh8-157",
+      "name": "Gengar VMAX",
+      "set": {
+        "name": "Fusion Strike",
+        "series": "Sword & Shield",
+        "releaseDate": "2021/11/12"
+      },
+      "number": "157",
+      "rarity": "Rare Holo VMAX",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh8/157.png",
+        "large": "https://images.pokemontcg.io/swsh8/157_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh8-157"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Fear and Panic",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60×",
+          "text": "This attack does 60 damage for each of your opponent's Pokémon V and Pokémon-GX in play."
+        },
+        {
+          "name": "G-Max Swallow Up",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Darkness"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "250",
+          "text": "During your next turn, this Pokémon can't attack."
+        }
+      ],
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "swsh8-271",
+      "name": "Gengar VMAX",
+      "set": {
+        "name": "Fusion Strike",
+        "series": "Sword & Shield",
+        "releaseDate": "2021/11/12"
+      },
+      "number": "271",
+      "rarity": "Rare Rainbow",
+      "images": {
+        "small": "https://images.pokemontcg.io/swsh8/271.png",
+        "large": "https://images.pokemontcg.io/swsh8/271_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/swsh8-271"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Fear and Panic",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "60×",
+          "text": "This attack does 60 damage for each of your opponent's Pokémon V and Pokémon-GX in play."
+        },
+        {
+          "name": "G-Max Swallow Up",
+          "cost": [
+            "Darkness",
+            "Darkness",
+            "Darkness"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "250",
+          "text": "During your next turn, this Pokémon can't attack."
+        }
+      ],
+      "rules": [
+        "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "ex6-108",
+      "name": "Gengar ex",
+      "set": {
+        "name": "FireRed & LeafGreen",
+        "series": "EX",
+        "releaseDate": "2004/09/01"
+      },
+      "number": "108",
+      "rarity": "Rare Holo EX",
+      "images": {
+        "small": "https://images.pokemontcg.io/ex6/108.png",
+        "large": "https://images.pokemontcg.io/ex6/108_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/ex6-108"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Poltergeist",
+          "cost": [
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "40+",
+          "text": "Look at your opponent's hand. This attack does 40 damage plus 10 more damage for each Trainer card in your opponent's hand."
+        },
+        {
+          "name": "Prize Count",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60+",
+          "text": "If you have more Prize cards left than your opponent, this attack does 60 damage plus 40 more damage."
+        }
+      ],
+      "rules": [
+        "When Pokémon-ex has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "sv5-104",
+      "name": "Gengar ex",
+      "set": {
+        "name": "Temporal Forces",
+        "series": "Scarlet & Violet",
+        "releaseDate": "2024/03/22"
+      },
+      "number": "104",
+      "rarity": "Double Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/sv5/104.png",
+        "large": "https://images.pokemontcg.io/sv5/104_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sv5-104"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Gnawing Curse",
+          "text": "Whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tricky Steps",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "160",
+          "text": "You may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "sv5-193",
+      "name": "Gengar ex",
+      "set": {
+        "name": "Temporal Forces",
+        "series": "Scarlet & Violet",
+        "releaseDate": "2024/03/22"
+      },
+      "number": "193",
+      "rarity": "Ultra Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/sv5/193.png",
+        "large": "https://images.pokemontcg.io/sv5/193_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/sv5-193"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Gnawing Curse",
+          "text": "Whenever your opponent attaches an Energy card from their hand to 1 of their Pokémon, put 2 damage counters on that Pokémon.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Tricky Steps",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "160",
+          "text": "You may move an Energy from your opponent's Active Pokémon to 1 of their Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "xy4-34",
+      "name": "Gengar-EX",
+      "set": {
+        "name": "Phantom Forces",
+        "series": "XY",
+        "releaseDate": "2014/11/05"
+      },
+      "number": "34",
+      "rarity": "Rare Holo EX",
+      "images": {
+        "small": "https://images.pokemontcg.io/xy4/34.png",
+        "large": "https://images.pokemontcg.io/xy4/34_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xy4-34"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Night Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Put 3 damage counters on 1 of your opponent's Pokémon."
+        },
+        {
+          "name": "Dark Corridor",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Your opponent's Active Pokémon is now Poisoned. Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "xy4-114",
+      "name": "Gengar-EX",
+      "set": {
+        "name": "Phantom Forces",
+        "series": "XY",
+        "releaseDate": "2014/11/05"
+      },
+      "number": "114",
+      "rarity": "Rare Ultra",
+      "images": {
+        "small": "https://images.pokemontcg.io/xy4/114.png",
+        "large": "https://images.pokemontcg.io/xy4/114_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xy4-114"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Night Attack",
+          "cost": [
+            "Colorless"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Put 3 damage counters on 1 of your opponent's Pokémon."
+        },
+        {
+          "name": "Dark Corridor",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "60",
+          "text": "Your opponent's Active Pokémon is now Poisoned. Switch this Pokémon with 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "xyp-XY166",
+      "name": "M Gengar-EX",
+      "set": {
+        "name": "XY Black Star Promos",
+        "series": "XY",
+        "releaseDate": "2013/10/12"
+      },
+      "number": "XY166",
+      "rarity": "Promo",
+      "images": {
+        "small": "https://images.pokemontcg.io/xyp/XY166.png",
+        "large": "https://images.pokemontcg.io/xyp/XY166_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xyp-XY166"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Hollow Geist",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 4,
+          "damage": "120",
+          "text": "Your opponent's Active Pokémon is now Confused and Poisoned."
+        }
+      ],
+      "rules": [
+        "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "xy4-35",
+      "name": "M Gengar-EX",
+      "set": {
+        "name": "Phantom Forces",
+        "series": "XY",
+        "releaseDate": "2014/11/05"
+      },
+      "number": "35",
+      "rarity": "Rare Holo EX",
+      "images": {
+        "small": "https://images.pokemontcg.io/xy4/35.png",
+        "large": "https://images.pokemontcg.io/xy4/35_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xy4-35"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Phantom Gate",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "",
+          "text": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack."
+        }
+      ],
+      "rules": [
+        "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "xy4-121",
+      "name": "M Gengar-EX",
+      "set": {
+        "name": "Phantom Forces",
+        "series": "XY",
+        "releaseDate": "2014/11/05"
+      },
+      "number": "121",
+      "rarity": "Rare Secret",
+      "images": {
+        "small": "https://images.pokemontcg.io/xy4/121.png",
+        "large": "https://images.pokemontcg.io/xy4/121_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/xy4-121"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Phantom Gate",
+          "cost": [
+            "Psychic",
+            "Colorless",
+            "Colorless"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "",
+          "text": "Choose 1 of your opponent's Pokémon's attacks and use it as this attack."
+        }
+      ],
+      "rules": [
+        "Mega Evolution rule: When 1 of your Pokémon becomes a Mega Evolution Pokémon, your turn ends.",
+        "Pokémon-EX rule: When a Pokémon-EX has been Knocked Out, your opponent takes 2 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "me2-56",
+      "name": "Mega Gengar ex",
+      "set": {
+        "name": "Phantasmal Flames",
+        "series": "Mega Evolution",
+        "releaseDate": "2025/11/14"
+      },
+      "number": "56",
+      "rarity": "Double Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/me2/56.png",
+        "large": "https://images.pokemontcg.io/me2/56_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/me2-56"
+      },
+      "legalities": {
+        "unlimited": "Legal",
+        "standard": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Shadowy Concealment",
+          "text": "If 1 of your Darkness Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon ex, that player takes 1 fewer Prize card. The effect of Shadowy Concealment doesn't stack.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Void Gale",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "230",
+          "text": "Move an Energy from this Pokémon to 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "me2pt5-125",
+      "name": "Mega Gengar ex",
+      "set": {
+        "name": "Ascended Heroes",
+        "series": "Mega Evolution",
+        "releaseDate": "2026/01/30"
+      },
+      "number": "125",
+      "rarity": "Double Rare",
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2pt5-125/small",
+        "large": "https://images.scrydex.com/pokemon/me2pt5-125/large"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/me2pt5-125"
+      },
+      "legalities": {
+        "standard": "Legal",
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Shadowy Concealment",
+          "text": "If 1 of your Darkness Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon ex, that player takes 1 fewer Prize card. The effect of Shadowy Concealment doesn't stack.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Void Gale",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "230",
+          "text": "Move an Energy from this Pokémon to 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+        "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "me2pt5-269",
+      "name": "Mega Gengar ex",
+      "set": {
+        "name": "Ascended Heroes",
+        "series": "Mega Evolution",
+        "releaseDate": "2026/01/30"
+      },
+      "number": "269",
+      "rarity": "MEGA_ATTACK_RARE",
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2pt5-269/small",
+        "large": "https://images.scrydex.com/pokemon/me2pt5-269/large"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/me2pt5-269"
+      },
+      "legalities": {
+        "standard": "Legal",
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Shadowy Concealment",
+          "text": "If 1 of your Darkness Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon ex, that player takes 1 fewer Prize card. The effect of Shadowy Concealment doesn't stack.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Void Gale",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "230",
+          "text": "Move an Energy from this Pokémon to 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+        "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "me2pt5-284",
+      "name": "Mega Gengar ex",
+      "set": {
+        "name": "Ascended Heroes",
+        "series": "Mega Evolution",
+        "releaseDate": "2026/01/30"
+      },
+      "number": "284",
+      "rarity": "Special Illustration Rare",
+      "images": {
+        "small": "https://images.scrydex.com/pokemon/me2pt5-284/small",
+        "large": "https://images.scrydex.com/pokemon/me2pt5-284/large"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/me2pt5-284"
+      },
+      "legalities": {
+        "standard": "Legal",
+        "unlimited": "Legal",
+        "expanded": "Legal"
+      },
+      "abilities": [
+        {
+          "name": "Shadowy Concealment",
+          "text": "If 1 of your Darkness Pokémon is Knocked Out by damage from an attack from your opponent's Pokémon ex, that player takes 1 fewer Prize card. The effect of Shadowy Concealment doesn't stack.",
+          "type": "Ability"
+        }
+      ],
+      "attacks": [
+        {
+          "name": "Void Gale",
+          "cost": [
+            "Darkness",
+            "Darkness"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "230",
+          "text": "Move an Energy from this Pokémon to 1 of your Benched Pokémon."
+        }
+      ],
+      "rules": [
+        "Pokémon ex rule: When your Pokémon ex is Knocked Out, your opponent takes 2 Prize cards.",
+        "Mega Evolution ex Rule: When your Mega Evolution Pokémon ex is Knocked Out, your opponent takes 3 Prize cards."
+      ],
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "gym1-14",
+      "name": "Sabrina's Gengar",
+      "set": {
+        "name": "Gym Heroes",
+        "series": "Gym",
+        "releaseDate": "2000/08/14"
+      },
+      "number": "14",
+      "rarity": "Rare Holo",
+      "images": {
+        "small": "https://images.pokemontcg.io/gym1/14.png",
+        "large": "https://images.pokemontcg.io/gym1/14_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/gym1-14"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Pain Amplifier",
+          "cost": [
+            "Psychic"
+          ],
+          "convertedEnergyCost": 1,
+          "damage": "",
+          "text": "Put a damage counter on each of your opponent's Pokémon has already has any damage counters on it."
+        },
+        {
+          "name": "Call of the Night",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "Unless this attack Knocks Out the Defending Pokémon, flip 2 coins. If both of them are heads, your opponent shuffles his or her Active Pokémon and all cards attached to it into his or her deck."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    },
+    {
+      "id": "gym2-29",
+      "name": "Sabrina's Gengar",
+      "set": {
+        "name": "Gym Challenge",
+        "series": "Gym",
+        "releaseDate": "2000/10/16"
+      },
+      "number": "29",
+      "rarity": "Rare",
+      "images": {
+        "small": "https://images.pokemontcg.io/gym2/29.png",
+        "large": "https://images.pokemontcg.io/gym2/29_hires.png"
+      },
+      "tcgplayer": {
+        "url": "https://prices.pokemontcg.io/tcgplayer/gym2-29"
+      },
+      "legalities": {
+        "unlimited": "Legal"
+      },
+      "abilities": null,
+      "attacks": [
+        {
+          "name": "Dark Wave",
+          "cost": [
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 2,
+          "damage": "20",
+          "text": "All Pokémon Powers stop working until the end of your opponent's next turn."
+        },
+        {
+          "name": "Shadow Bind",
+          "cost": [
+            "Psychic",
+            "Psychic",
+            "Psychic"
+          ],
+          "convertedEnergyCost": 3,
+          "damage": "40",
+          "text": "The Defending Pokémon can't retreat during your opponent's next turn."
+        }
+      ],
+      "rules": null,
+      "nationalPokedexNumbers": [
+        94
+      ]
+    }
+  ]
+}
